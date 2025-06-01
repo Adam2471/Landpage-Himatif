@@ -1,0 +1,12 @@
+[02-Sep-2022 04:42:07 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/himatifp/public_html/application/controllers/Himatif.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/himatifp/public_html/application/controllers/Himatif.php on line 3
+[02-Sep-2022 04:42:59 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/himatifp/public_html/application/controllers/Himatif.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/himatifp/public_html/application/controllers/Himatif.php on line 3
+[02-Sep-2022 04:43:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CI_Controller' not found in /home/himatifp/public_html/application/controllers/Himatif.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/himatifp/public_html/application/controllers/Himatif.php on line 3
