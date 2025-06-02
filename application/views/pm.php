@@ -12,7 +12,7 @@
 							semangat berorganisasi, Inovatif, Kreatif, Inspiratif, Kritis dan
 							ahli dalam bidang Teknik Informatika"
 						</h5>
-
+						<!-- Misi -->
 						<div class="row gy-5 gx-4">
 							<h2 class="text-primary text-uppercase mb-2">Misi</h2>
 							<div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
@@ -62,28 +62,25 @@
 					<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
 						<div
 							class="position-relative overflow-hidden pe-5 pt-5 h-100"
-							style="min-height: 400px"
-						>
+							style="min-height: 400px">
 							<img
 								class="position-absolute w-100 h-90"
 								src="img/pengurus/kswb.png"
 								alt=""
-								style="object-fit: cover"
-							/>
+								style="object-fit: cover"/>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 		<!-- Features End -->
+
 		<!-- Team Start -->
 		<div class="container-xxl py-6">
 			<div class="container">
-				<div
-					class="text-center mx-auto mb-5 wow fadeInUp"
+				<div class="text-center mx-auto mb-5 wow fadeInUp"
 					data-wow-delay="0.1s"
-					style="max-width: 500px"
-				>
+					style="max-width: 500px">
 					<h2 class="display-4 mb-20">Pengurus Inti</h2>
 					<h6 class="text-primary text-uppercase mb-2"></h6>
 				</div>
@@ -94,30 +91,28 @@
                     <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
 					</div>
                     <!-- End -->
+					 <!-- ketum -->
 					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="img/pengurus/ketum.jpg" alt="" />
+								<img class="img-fluid" src="assets/img/pengurus/hasbi.jpg" alt="" />
 								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-facebook-f"></i>
+									</a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-twitter"></i>
+									</a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-instagram"></i>
+									</a>
 								</div>
 							</div>
 							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Dezia Alfira Chaniago</h5>
+								<h5 class="mt-2">Muhammad Hasbiallah</h5>
 								<span>Ketua Umum</span>
 							</div>
 						</div>
@@ -132,99 +127,112 @@
 						<div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">	
 						</div>
 						<!-- End -->
-
+					<!-- wakil ketua umum -->
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="img/pengurus/wakil.jpg" alt="" />
+								<img class="img-fluid" src="img/pengurus/bayu.jpg" alt="" />
 								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-facebook-f"></i>
+									</a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-twitter"></i>
+									</a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-instagram"></i>
+									</a>
 								</div>
 							</div>
 							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Dicky Ramdhani</h5>
+								<h5 class="mt-2">Bayu Maulana Ayyasi</h5>
 								<span>Wakil Ketua Umum</span>
 							</div>
 						</div>
 					</div>
-					
-
+					<!-- sekum 1 -->
 					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img
-									class="img-fluid"
-									src="img/pengurus/sekum.jpg"
-									alt=""
-								/>
+								<img class="img-fluid"
+									src="img/pengurus/nadya.jpg"
+									alt=""/>
 								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-facebook-f"></i>
+									</a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-twitter"></i>
+									</a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-instagram"></i>
+									</a>
 								</div>
 							</div>
 							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Nabila Nurmiftahul Jannah</h5>
-								<span>Sekretaris Umum</span>
+								<h5 class="mt-2">Nadya Khoirunnisa</h5>
+								<span>Sekretaris Umum 1</span>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
+					<!-- sekum 2 -->
+					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="img/pengurus/bendum.jpg" alt="" />
+								<img class="img-fluid" src="img/pengurus/imam.jpg" alt=""/>
 								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-facebook-f"></i></a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-twitter"></i></a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-instagram"></i>
+									</a>
 								</div>
 							</div>
 							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Septy Noer Anggraeni </h5>
+								<h5 class="mt-2">Imam Permana</h5>
+								<span>Sekretaris Umum 2</span>
+							</div>
+						</div>
+					</div>
+					<!-- bendum -->
+					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
+						<div class="team-item position-relative">
+							<div class="position-relative">
+								<img class="img-fluid" src="img/pengurus/shidqi.jpg" alt="" />
+								<div class="team-social text-center">
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-facebook-f"></i>
+									</a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-twitter"></i>
+									</a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="">
+										<i class="fab fa-instagram"></i>
+									</a>
+								</div>
+							</div>
+							<div class="bg-light text-center p-3">
+								<h5 class="mt-2">Muhammad Shidqi Al-Ghifari</h5>
 								<span>Bendahara Umum</span>
 							</div>
 						</div>
 					</div>
-		
 				</div>
 			</div>
 		</div>
 		<!-- Team End -->
+	</body>
