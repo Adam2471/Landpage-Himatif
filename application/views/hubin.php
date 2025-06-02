@@ -160,7 +160,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/hubin4.png" alt="" />
+								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/arbi.jpg" alt="" />
 								<div class="team-social text-center">
 									<a
 										class="btn btn-square btn-outline-primary border-2 m-1"
@@ -191,7 +191,7 @@
 							<div class="position-relative">
 								<img
 									class="img-fluid"
-									src="<?php base_url() ?>../assets/img/pengurus/hubsek.jpg"
+									src="<?php base_url() ?>../assets/img/pengurus/hartono.jpg"
 									alt=""
 								/>
 								<div class="team-social text-center">

@@ -111,7 +111,7 @@
 					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/adam.png" alt="" />
+								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/adam.jpg" alt="" />
 								<div class="team-social text-center">
 									<a
 										class="btn btn-square btn-outline-primary border-2 m-1"
@@ -150,7 +150,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/habib.png" alt="" />
+								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/habib.jpg" alt="" />
 								<div class="team-social text-center">
 									<a
 										class="btn btn-square btn-outline-primary border-2 m-1"
@@ -181,7 +181,7 @@
 							<div class="position-relative">
 								<img
 									class="img-fluid"
-									src="<?php base_url() ?>../assets/img/pengurus/nabil.png"
+									src="<?php base_url() ?>../assets/img/pengurus/nabil.jpg"
 									alt=""
 								/>
 								<div class="team-social text-center">

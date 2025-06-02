@@ -106,7 +106,7 @@
 					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/miba1.jpg" alt="" />
+								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/jastin.jpg" alt="" />
 								<div class="team-social text-center">
 									<a
 										class="btn btn-square btn-outline-primary border-2 m-1"
@@ -149,7 +149,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/miba6.png" alt="" />
+								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/veni.jpg" alt="" />
 								<div class="team-social text-center">
 									<a
 										class="btn btn-square btn-outline-primary border-2 m-1"
@@ -184,7 +184,7 @@
 							<div class="position-relative">
 								<img
 									class="img-fluid"
-									src="<?php base_url() ?>../assets/img/pengurus/miba4.jpg"
+									src="<?php base_url() ?>../assets/img/pengurus/dilah.jpg"
 									alt=""
 								/>
 								<div class="team-social text-center">
@@ -218,7 +218,7 @@
 					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/miba2.jpg" alt="" />
+								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/fahmi.jpg" alt="" />
 								<div class="team-social text-center">
 									<a
 										class="btn btn-square btn-outline-primary border-2 m-1"
