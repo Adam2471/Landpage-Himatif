@@ -9,18 +9,12 @@
 				<h2 class="display-3 text-white animated slideInDown mb-4">
 					Pengembangan Organisasi
 				</h2>
-				<nav aria-label="breadcrumb animated slideInDown">
-					<!-- <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                    <li class="breadcrumb-item text-primary active" aria-current="page">Features</li>
-                </ol> -->
-				</nav>
+				<nav aria-label="breadcrumb animated slideInDown"></nav>
 			</div>
 		</div>
 		<!-- Page Header End -->
 
-        		<!-- Features Start -->
+        <!-- Features Start -->
 		<div class="container-xxl py-6">
 			<div class="container">
 				<div class="row g-5">
@@ -73,28 +67,15 @@
 									</p>
 								</div>
 							</div>
-							<!-- <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="d-flex align-items-center mb-3">
-                                <div class="flex-shrink-0 btn-square bg-primary me-3">
-                                    <i class="fa fa-check text-white"></i>
-                                </div>
-                                <h5 class="mb-0">Best Trainers</h5>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam eos</span>
-                        </div> -->
 						</div>
 					</div>
 					<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.4s">
-						<div
-							class="position-relative overflow-hidden pe-5 pt-5 h-100"
-							style="min-height: 500px"
-						>
-							<img
-								class="position-absolute w-100 h-80"
+						<div class="position-relative overflow-hidden pe-5 pt-5 h-100"
+							style="min-height: 500px">
+							<img class="position-absolute w-100 h-80"
 								src="<?php base_url() ?>../assets/img/images/dpt/L3.png"
 								alt=""
-								style="object-fit: cover"
-							/>
+								style="object-fit: cover"/>
 						</div>
 					</div>
 				</div>
@@ -104,213 +85,72 @@
 
 		<!-- Team Start -->
 		<div class="container-xxl py-6">
-			<div class="container">
-				<div
-					class="text-center mx-auto mb-5 wow fadeInUp"
-					data-wow-delay="0.1s"
-					style="max-width: 500px"
-				>
-					<h4 class="display-6 mb-20">Tim Pengembangan Organisasi</h4>
-					<h6 class="text-primary text-uppercase mb-2"></h6>
-				</div>
-				<div class="row g-0 team-items">
-					<!-- Pembatas -->
-					<div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">	
-					</div>
-                    <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-					</div>
-                    <!-- End -->
-					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/husni.jpg">
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Husni Kurniawan</h5>
-								<span>Ketua Departemen</span>
-							</div>
-						</div>
-					</div>
-					<!-- Pembatas -->
-					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">	
-					</div>
-                    <div class="col-lg-1 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-					</div>
-                    <!-- End -->
+    	<div class="container">
+        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px">
+            <h4 class="display-6 mb-20">Tim PO</h4>
+            <h6 class="text-primary text-uppercase mb-2"></h6>
+        </div>
 
-                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/ahyar.jpg">
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Ahyar</h5>
-								<span>Sekertaris Departemen</span>
-							</div>
-						</div>
-					</div>
+        <!-- Baris Husni (tengah atas) -->
+        <div class="row justify-content-center mb-4">
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="team-item position-relative">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/husni.jpg">
+                        <div class="team-social text-center">
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.facebook.com/share/1FKpPiD5gK/"><i class="fab fa-facebook-f"></i></a>
+                            <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href=""><i class="fab fa-linkedin-in"></i></a> -->
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/husnyk__?igsh=bmNqMzBvNWhpc25s"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="bg-light text-center p-3">
+                        <h5 class="mt-2">Husni Kurniawan</h5>
+                        <span>Ketua Departemen</span>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img
-									class="img-fluid"
-									src="<?php base_url() ?>../assets/img/pengurus/fajri.jpg"
-									alt=""
-								/>
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Fajri Anshori</h5>
-								<span>Staff Departemen</span>
-							</div>
-						</div>
-					</div>
-					<!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/PO2.png">
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Prisca Anggraini Primadani </h5>
-								<span>Staff PO</span>
-							</div>
-						</div>
-					</div> -->
-					<!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="img/pengurus/dicky.png" alt="" />
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-4">
-								<h5 class="mt-2">Tiani Ayu Lestari</h5>
-								<span>Anggota</span>
-							</div>
-						</div> -->
-					<!-- </div> -->
+        <!-- Baris Ahyar dan Fajri (sejajar bawah) -->
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="team-item position-relative">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/ahyar.jpg">
+                        <div class="team-social text-center">
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.facebook.com/share/1CDb3Dys3t/"><i class="fab fa-facebook-f"></i></a>
+                            <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href=""><i class="fab fa-linkedin-in"></i></a> -->
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=qriw818"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="bg-light text-center p-3">
+                        <h5 class="mt-2">Ahyar</h5>
+                        <span>Sekertaris Departemen</span>
+                    </div>
+                </div>
+            </div>
 
-                    
-
-					<!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.9s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/PO4.png">
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Husni</h5>
-								<span>Staff PO</span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div> -->
-		<!-- Team End -->
-
-
-
-    <!-- Courses Start -->
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="team-item position-relative">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/fajri.jpg" alt="" />
+                        <div class="team-social text-center">
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.facebook.com/share/1LQv7TKDrR/"><i class="fab fa-facebook-f"></i></a>
+                            <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href=""><i class="fab fa-linkedin-in"></i></a> -->
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/fajrianshr_?igsh=d3Zqd3RpZTdyZ2No"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="bg-light text-center p-3">
+                        <h5 class="mt-2">Fajri Anshori</h5>
+                        <span>Staff Departemen</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Team End -->
+<!-- Courses Start -->
     <div class="container-xxl py-6">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
@@ -365,29 +205,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
-                        <div class="text-center p-4 pt-0">
-                           
-                            <h5 class="mb-3">Studi Banding</h5>
-                            <p style="text-align: justify;">Menambah Wawasan, Menambah Relasi, 
-								bertukar pikiran dalam organisasi agar 
-								kedepannya dapat menjalankan organisasi 
-								dengan lebih baik, mempererat tali silaturahmi 
-								serta meningkatkan hubungan baik antar 
-								Himpunan</p>
-                            <ol class="breadcrumb justify-content-center mb-0">
-                                
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>11 juni 2022</li>
-                            </ol>
-                        </div>
-                        <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/studi.jpg" alt="">
-                            <div class="courses-overlay">
-                                <a class="btn btn-outline-primary border-2" href="">Read More</a>
-                            </div>
-                        </div>
-                    </div> -->
                 </div>
             </div>
         </div>

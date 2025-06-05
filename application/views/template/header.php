@@ -67,21 +67,18 @@
 					</div>
 					<div class="h-100 d-inline-flex align-items-center mx-n2">
 						<a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary"
-							href="https://www.facebook.com/himatif.pelitabangsa">
-							<i class="fab fa-facebook-f"></i></a>
-						<!-- <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href=""><i class="fab fa-twitter"></i></a> -->
-						<!-- <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary"
-							href=""><i class="bi bi-youtube"></i>
-						</a> -->
+							href="https://www.facebook.com/himatif.pelitabangsa"><i class="fab fa-facebook-f"></i></a>
+						<a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" 
+							href="https://www.instagram.com/himatif_pb?igsh=MTI4amgxMWU0Ym5wOA=="><i class="fab fa-instagram"></i></a>
+						<a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary"
+							href="https://www.youtube.com/@himatifupb4555"><i class="bi bi-youtube"></i></a>
 
-						<!-- ini baru -->
+						<!-- ini baru
 						<a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary"
 							href="https://www.youtube.com/@himatifupb4555">
 							<i class="fab fa-youtube"></i></a>
-							 
 						<a class="btn btn-square btn-link rounded-0"
-							href="https://www.instagram.com/himatif_pb/?hl=id"><i class="fab fa-instagram"></i>
-						</a>
+							href="https://www.instagram.com/himatif_pb/?hl=id"><i class="fab fa-instagram"></i></a> -->
 					</div>
 				</div>
 			</div>
@@ -105,17 +102,6 @@
 				<div class="navbar-nav ms-auto p-4 p-lg-0">
 					<div class="nav-item dropdown">
 						<a href="<?php echo base_url()?>himatif/index" class="nav-link">Home</a>
-						<!-- <div class="dropdown-menu bg-light m-0">
-							<a href="sejarah.html" class="dropdown-item">Sejarah</a>
-							<a href="appointment.html" class="dropdown-item">Logo</a>
-							<a href="team.html" class="dropdown-item">Visi Misi</a>
-							<a href="testimonial.html" class="dropdown-item"
-								>Struktur Organisai</a
-							>
-							<a href="404.html" class="dropdown-item"
-								>Grand Desain HIMATIF 2022</a
-							>
-						</div> -->
 					</div>
 					<div class="nav-item dropdown">
 						<a href="#"
@@ -124,7 +110,8 @@
 							data-bs-toggle="dropdown">Departemen
 						</a>
 						<div class="dropdown-menu bg-light m-0">
-							<!-- <a href="<?php echo base_url(). 'himatif/pm' ?>" class="dropdown-item" style="text-transform: capitalize;">Penjamin Mutu</a> -->
+							<a href="<?php echo base_url(). 'himatif/pm' ?>" class="dropdown-item" style="text-transform: capitalize;">
+								Penjamin Mutu</a>
 							<a href="<?php echo base_url()?>himatif/ksb" class="dropdown-item" style="text-transform: capitalize;"
 								>Pengurus Inti</a>
 							<a href="<?php echo base_url()?>himatif/po" class="dropdown-item" style="text-transform: capitalize;"
@@ -136,27 +123,24 @@
 							<a href="<?php echo base_url()?>himatif/litbang" class="dropdown-item" style="text-transform: capitalize;"
 								>Penelitan dan Pengembangan</a>
 							<a href="<?php echo base_url()?>himatif/hubin" class="dropdown-item" style="text-transform: capitalize;"
-								>HubIn HubEks</a>
+								>Hubin Hubeks</a>
 						</div>
 					</div>
 					<a href="#" class="nav-item nav-link" style="text-transform: capitalize;">iTech</a>
 					<a href="#" class="nav-item nav-link" style="text-transform: capitalize;">Galeri</a>
 					<div class="nav-item dropdown">
-						<a href="#"
-							class="nav-link dropdown-toggle"
-							style="text-transform: capitalize;"
-							data-bs-toggle="dropdown"
+						<a href="#" class="nav-link dropdown-toggle" style="text-transform: capitalize;" data-bs-toggle="dropdown"
 							>Event</a>
 						<div class="dropdown-menu bg-light m-0">
 							<a href="<?php echo base_url()?>himatif/itfast_2" class="dropdown-item" style="text-transform: capitalize;"
-								>IT FAST </a>
+							>IT FAST</a>
 							<!-- <a href="appointment.html" class="dropdown-item" style="text-transform: capitalize;">Workshop</a> -->
 						</div>
 					</div>
 					<!-- <a href="contact.html" class="nav-item nav-link" style="text-transform: capitalize;">Contact</a> -->
 				</div>
 				<a href="<?php echo base_url()?>login/admin" class="btn btn-light py-4 px-lg-5 d-none d-lg-block" style="text-transform: capitalize;"
-					>Login<i class="bi bi-door-open ms-3" ></i></a>
+					>Login<i class="bi bi-door-open ms-3"></i></a>
 			</div>
 		</nav>
 		<!-- Navbar End -->
