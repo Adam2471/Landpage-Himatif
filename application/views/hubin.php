@@ -3,24 +3,18 @@
 		<!-- Page Header Start -->
 		<div
 			class="container-fluid page-header py-6 my-6 mt-0 wow fadeIn"
-			data-wow-delay="0.1s"
-		>
+			data-wow-delay="0.1s">
 			<div class="container text-center">
 				<h2 class="display-3 text-white animated slideInDown mb-4">
-					Hubungan Internal dan Hubungan Eksternal
+					Hubungan Internal Dan Hubungan Eksternal
 				</h2>
 				<nav aria-label="breadcrumb animated slideInDown">
-					<!-- <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                    <li class="breadcrumb-item text-primary active" aria-current="page">Features</li>
-                </ol> -->
 				</nav>
 			</div>
 		</div>
 		<!-- Page Header End -->
 
-        		<!-- Features Start -->
+        <!-- Features Start -->
 		<div class="container-xxl py-6">
 			<div class="container">
 				<div class="row g-5">
@@ -31,7 +25,6 @@
 							dan reputasi Organisasi yang strategis dan kreatif, membangun hubungan yang kuat dan berkelanjutan untuk menjaga citra positif
 							dan nama baik HIMATIF-Univ. Pelita Bangsa."
 						</p>
-
 						<div class="row gy-5 gx-4">
 							<h2 class="text-primary text-uppercase mb-2 text-center" >Misi</h2>
 							<div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
@@ -75,15 +68,6 @@
 									</p>
 								</div>
 							</div>
-							<!-- <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="d-flex align-items-center mb-3">
-                                <div class="flex-shrink-0 btn-square bg-primary me-3">
-                                    <i class="fa fa-check text-white"></i>
-                                </div>
-                                <h5 class="mb-0">Best Trainers</h5>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam eos</span>
-                        </div> -->
 						</div>
 					</div>
 					<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.4s">
@@ -106,221 +90,79 @@
 
 		<!-- Team Start -->
 		<div class="container-xxl py-6">
-			<div class="container">
-				<div
-					class="text-center mx-auto mb-5 wow fadeInUp"
-					data-wow-delay="0.1s"
-					style="max-width: 500px"
-				>
-					<h4 class="display-6 mb-20">Tim HUBIN HUBEKS</h4>
-					<h6 class="text-primary text-uppercase mb-2"></h6>
-				</div>
-				<div class="row g-0 team-items">
-					<!-- Pembatas -->
-					<div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">	
-					</div>
-                    <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-					</div>
-                    <!-- End -->
-					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/rai.jpg" alt="" />
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Fahrul Rozi Fahreza</h5>
-								<span>Ketua Departemen</span>
-							</div>
-						</div>
-					</div>
-					<!-- Pembatas -->
-					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">	
-					</div>
-                    <div class="col-lg-1 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-					</div>
-                    <!-- End -->
-
-                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/hubin4.png" alt="" />
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Arbi Bagaskara Putra</h5>
-								<span>Wakil Departemen</span>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img
-									class="img-fluid"
-									src="<?php base_url() ?>../assets/img/pengurus/hubsek.jpg"
-									alt=""
-								/>
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Hartono</h5>
-								<span>Sekertaris Departemen</span>
-							</div>
-						</div>
-					</div>
-					<!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/hubin2.jpg" alt="" />
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Bagus Triarsa </h5>
-								<span>Staff HUBIN HUBEX</span>
-							</div>
-						</div>
-					</div> -->
-					<!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="img/pengurus/dicky.png" alt="" />
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-4">
-								<h5 class="mt-2">Tiani Ayu Lestari</h5>
-								<span>Anggota</span>
-							</div>
-						</div> -->
-					<!-- </div> -->
-
-                    
-
-					<!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.9s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/hubin3.jpg" alt="" />
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Ibnu Fajar</h5>
-								<span>Staff HUBIN HUBEKS</span>
-							</div>
-						</div>
-					</div> -->
-				</div>
+    	<div class="container">
+        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px">
+            <h4 class="display-6 mb-20">Tim Hubin Hubeks</h4>
+            <h6 class="text-primary text-uppercase mb-2"></h6>
+        </div>
+		<!-- Baris rai (tengah atas) -->
+        <div class="row justify-content-center mb-4">
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="team-item position-relative">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/rai.jpg">
+                        <div class="team-social text-center">
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.facebook.com/share/1Av3VZ4ocH/"><i class="fab fa-facebook-f"></i></a>
+                            <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a> -->
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/rai_040202?igsh=cG4zbmtveDBxd3Vj"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="bg-light text-center p-3">
+                        <h5 class="mt-2">Fahrul Rozi Fahreza</h5>
+                        <span>Ketua Departemen</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+		<!-- Baris arbi dan hartono (sejajar bawah) -->
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="team-item position-relative">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/arbi.jpg">
+                        <div class="team-social text-center">
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="bg-light text-center p-3">
+                        <h5 class="mt-2">Arbi Bagaskara Putra</h5>
+                        <span>Wakil Ketua Departemen</span>
+                    </div>
+                </div>
+            </div>
+			<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="team-item position-relative">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/hartono.jpg" alt="" />
+                        <div class="team-social text-center">
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.facebook.com/share/16PxxbNtdq/"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.linkedin.com/in/harto-no-5290372b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/hartono.1809?igsh=MWh1aW9qZ2syN2FxOA=="><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="bg-light text-center p-3">
+                        <h5 class="mt-2">Hartono</h5>
+                        <span>Sekertaris Departemen</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	<!-- Pembatas -->
 			</div>
 		</div>
-		<!-- Team End -->
-
-
-
-    <!-- Courses Start -->
+	</div>
+	<!-- Team End -->
+	<!-- Courses Start -->
     <div class="container-xxl py-6">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                
                 <h1 class="display-6 mb-4">PROGRAM KERJA</h1>
             </div>
-
-            <div class="row g-4 justify-content-center">
+			<div class="row g-4 justify-content-center">
 				<!-- Pembatas -->
 				<div class="col-lg-1 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
 					</div>
@@ -334,8 +176,7 @@
 								serta membagikan pengalaman dan pengetahuan kepada siswa/i SMK/MA/SMK tentang Teknologi saat ini.
                                 </p>
                             <ol class="breadcrumb justify-content-center mb-0">
-                               
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Kondisional</li>
+                               <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Kondisional</li>
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
@@ -346,18 +187,15 @@
                         </div>
                     </div>
                 </div>
-				
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+				<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
                         <div class="text-center p-3 pt-0">
-                            
                             <h5 class="mb-3">HIMATIF BERKAH RAMADHAN</h5>
                             <p style="text-align: justify; text-indent: 0.5in;" >Kegiatan bersosialisasi dengan membagikan takjil kepada orang-orang dijalan yang hendak berbuka puasa
 								dan berbuka bersama dengan mahasiswa Teknik Informatika Univ. Pelita Bangsa. 
 							</p>
                             <ol class="breadcrumb justify-content-center mb-0">
-                            
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Ramadhan 2025</li>
+                            	<li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Ramadhan 2025</li>
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
@@ -368,17 +206,14 @@
                         </div>
                     </div>
                 </div>
-	
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+				<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
                         <div class="text-center p-4 pt-0">
-                           
-                            <h5 class="mb-3">DIESNATALIS HIMATIF</h5>
+                           <h5 class="mb-3">DIESNATALIS HIMATIF</h5>
                             <p style="text-align: justify; text-indent: 0.5in;">Merayakan hari jadi HIMATIF Univ. Pelita Bangsa dan bersilaturahmi dengan Mahasiswa
 								Teknik Informatika dan alumni HIMATIF Univ. Pelita Bangsa.
 							</p>
                             <ol class="breadcrumb justify-content-center mb-0">
-                                
                                 <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Kondisional</li>
                             </ol>
                         </div>
@@ -394,46 +229,7 @@
 				<div class="col-lg-1 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
 					</div>
                     <!-- End -->
-				<!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
-                        <div class="text-center p-4 pt-0">
-                           
-                            <h5 class="mb-3">Milad HIMATIF</h5>
-                            <p style="text-align: justify; text-indent: 0.5in;">Mengadakan suatu acara untuk memperingati Ulang Tahun Himatif dan mengundang anggota Himatif, Demisioner Himatif-Univ. Pelita Bangsa dan Seluruh ORMAWA Universitas Pelita Bangsa.</p>
-                            <ol class="breadcrumb justify-content-center mb-0">
-                                
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Mei 2022</li>
-                            </ol>
-                        </div>
-                        <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/milad.png" alt="">
-                            <div class="courses-overlay">
-                                <a class="btn btn-outline-primary border-2" href="">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-				<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
-                        <div class="text-center p-4 pt-0">
-                           
-                            <h5 class="mb-3">BBM</h5>
-                            <p style="text-align: justify; text-indent: 0.5in;">Bagi – bagi makanan di bulan Ramadhan, menyambut bulan penuh berkah ini dengan menyelenggarakan kegiatan pembagian takjil buka puasa kepada masyarakat gratis</p>
-                            <ol class="breadcrumb justify-content-center mb-0">
-                                
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>April 2022</li>
-                            </ol>
-                        </div>
-                        <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/bbm.png" alt="">
-                            <div class="courses-overlay">
-                                <a class="btn btn-outline-primary border-2" href="">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
             </div>
         </div>
     </div>
     <!-- Courses End -->
-

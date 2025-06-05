@@ -9,18 +9,11 @@
 				<h2 class="display-3 text-white animated slideInDown mb-4">
 					Penelitian dan Pengembangan
 				</h2>
-				<nav aria-label="breadcrumb animated slideInDown">
-					<!-- <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                    <li class="breadcrumb-item text-primary active" aria-current="page">Features</li>
-                </ol> -->
-				</nav>
+				<nav aria-label="breadcrumb animated slideInDown"></nav>
 			</div>
 		</div>
 		<!-- Page Header End -->
-
-        		<!-- Features Start -->
+		<!-- Features Start -->
 		<div class="container-xxl py-6">
 			<div class="container">
 				<div class="row g-5">
@@ -61,201 +54,100 @@
 									</p>
 								</div>
 							</div>
-							<!-- <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="d-flex align-items-center mb-3">
-                                <div class="flex-shrink-0 btn-square bg-primary me-3">
-                                    <i class="fa fa-check text-white"></i>
-                                </div>
-                                <h5 class="mb-0">Best Trainers</h5>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam eos</span>
-                        </div> -->
 						</div>
 					</div>
 					<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.4s">
-						<div
-							class="position-relative overflow-hidden pe-5 pt-5 h-100"
-							style="min-height: 400px"
-						>
-							<img
-								class="position-absolute w-100 h-90"
+						<div class="position-relative overflow-hidden pe-5 pt-5 h-100"
+							style="min-height: 400px">
+							<img class="position-absolute w-100 h-90"
 								src="<?php base_url() ?>../assets/img/images/dpt/L1.png"
 								alt=""
-								style="object-fit: cover"
-							/>
+								style="object-fit: cover"/>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 		<!-- Features End -->
-
 		<!-- Team Start -->
 		<div class="container-xxl py-6">
-			<div class="container">
-				<div
-					class="text-center mx-auto mb-5 wow fadeInUp"
-					data-wow-delay="0.1s"
-					style="max-width: 500px"
-				>
-					<h4 class="display-6 mb-20">Tim Penelitian dan Pengembangan</h4>
-					<h6 class="text-primary text-uppercase mb-2"></h6>
-				</div>
-				<div class="row g-0 team-items">
-					<!-- Pembatas -->
-					<div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">	
-					</div>
-                    <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-					</div>
-                    <!-- End -->
-					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/adam.png" alt="" />
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href="https://www.facebook.com/profile.php?id=100075254807670"
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href="https://www.instagram.com/adammubarok73?igsh=MTRjYTcxd2d4bHE2bg=="
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Adam Mubarok</h5>
-								<span>Ketua Departemen</span>
-							</div>
-						</div>
-					</div>
-					<!-- Pembatas -->
-					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">	
-					</div>
-                    <div class="col-lg-1 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-					</div>
-                    <!-- End -->
-					
-                    <div class="col-lg-1 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-					</div>
-                    <!-- End -->
+    	<div class="container">
+        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px">
+            <h4 class="display-6 mb-20">Tim Penelitian Dan Pengembangan</h4>
+            <h6 class="text-primary text-uppercase mb-2"></h6>
+        </div>
+		<!-- Baris adam (tengah atas) -->
+        <div class="row justify-content-center mb-4">
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="team-item position-relative">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/adam.jpg">
+                        <div class="team-social text-center">
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.facebook.com/profile.php?id=100075254807670"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.linkedin.com/in/adam-mubarok-1ab49a308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/adammubarok73?igsh=MTRjYTcxd2d4bHE2bg=="><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="bg-light text-center p-3">
+                        <h5 class="mt-2">Adam Mubarok</h5>
+                        <span>Ketua Departemen</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+		<!-- Baris habib dan nabil (sejajar bawah) -->
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="team-item position-relative">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/habib.jpg">
+                        <div class="team-social text-center">
+                            <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href=""><i class="fab fa-facebook-f"></i></a> -->
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.linkedin.com/in/habib-suprayoga-921a23326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/hbib.spryga?igsh=MWh1aDFuZjZkaHdxeQ=="><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="bg-light text-center p-3">
+                        <h5 class="mt-2">Habib Suprayoga</h5>
+                        <span>Sekertaris Departemen</span>
+                    </div>
+                </div>
+            </div>
 
-                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/habib.png" alt="" />
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Habib Suprayoga</h5>
-								<span>Sekertaris Departemen</span>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img
-									class="img-fluid"
-									src="<?php base_url() ?>../assets/img/pengurus/nabil.png"
-									alt=""
-								/>
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Nabil Lio Sawares</h5>
-								<span>Staff Departemen</span>
-							</div>
-						</div>
-					</div>
-					<!-- Pembatas -->
-				
-					<!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
-						<div class="team-item position-relative">
-							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/li4.jpg" alt="" />
-								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-facebook-f"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-twitter"></i
-									></a>
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href=""
-										><i class="fab fa-instagram"></i
-									></a>
-								</div>
-							</div>
-							<div class="bg-light text-center p-3">
-								<h5 class="mt-2">Pikri Ramdani </h5>
-								<span>Staff LITBANG</span>
-							</div>
-						</div>
-					</div> -->
-				</div>
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="team-item position-relative">
+                    <div class="position-relative">
+                        <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/nabil.jpg" alt="" />
+                        <div class="team-social text-center">
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href=""><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="bg-light text-center p-3">
+                        <h5 class="mt-2">Nabil Lio Sawares</h5>
+                        <span>Staff Departemen</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	<!-- Pembatas -->
 			</div>
 		</div>
-		<!-- Team End -->
-
-
-
-    <!-- Courses Start -->
-    <div class="container-xxl py-6">
+	</div>
+	<!-- Team End -->
+	<!-- Courses Start -->
+    <div class="container-xxl py-6 d-flex align-iems-center justify-content-center" style="min-height: 100vh;">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                
                 <h1 class="display-6 mb-4">PROGRAM KERJA</h1>
             </div>
             <div class="row g-4 justify-content-center">
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-200">
-                        <div class="text-center p-3 pt-0">
+                <div class="col-lg-6 col-md-8 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100 shadow rounded">
+                        <div class="text-center p-4 pt-0">
                             <h5 class="mb-3">HimNec
                             </h5>
                             <p style="text-align: justify;">HimNec (Himatif Network Class) adalah program kerja dari departemen Litbang, 
@@ -264,8 +156,7 @@
 								Teknik Informatika untuk menguasai keterampilan praktis. 
                                 </p>
                             <ol class="breadcrumb justify-content-center mb-0">
-                               
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Mei s/d Juli 2025</li>
+                               <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Juni s/d Agustus 2025</li>
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
@@ -276,90 +167,21 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
                         <div class="text-center p-4 pt-0">
-                            
-                            <!-- <h5 class="mb-3">Screening Film</h5>
-                            <p style="text-align: justify;">Menayangkan dan menjadikan ajang diskusi yang
-								dimana film tersebut akan dijelaskan makna dan isinya.
-								
-							</p>
-                            <ol class="breadcrumb justify-content-center mb-0">
-                            
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>23 Mei 2022</li>
-                            </ol>
-                        </div>
-                        <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/screening.png" alt="">
-                            <div class="courses-overlay">
-                                <a class="btn btn-outline-dark border-2" href="">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
-                        <div class="text-center p-4 pt-0">
-                           
-                            <h5 class="mb-3">Lomba Film Pendek</h5>
-                            <p style="text-align: justify;">Lomba Film Pendek yaitu salah satu bentuk lomba film
-								yang menampilkan karya audio-visual berdurasi singkat
-								dengan muatan cerita yang singkat, padat dan
-								mencerminkan satu tema tertentu.</p>
-                            <ol class="breadcrumb justify-content-center mb-0">
-                                
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>11 juni 2022</li>
-                            </ol>
-                        </div>
-                        <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/lombafilm.png" alt="">
-                            <div class="courses-overlay">
-                                <a class="btn btn-outline-dark border-2" href="">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-				<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-200">
-                        <div class="text-center p-4 pt-0">
-                           
-                            <h5 class="mb-3">Development Website HIMATIF</h5>
-                            <p style="text-align: justify;">Membuat website HIMATIF yang bersifat 
-								sistematis, Untuk mempermudah pengurus HIMATIF 
-								dalam pengolahan data dan sarana informasi 
-								bagi mahasiswa Teknik Informatika Universitas 
-								Pelita Bangsa.
-								</p>
-                            <ol class="breadcrumb justify-content-center mb-0">
-                                
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>11 Maret 2022</li>
-                            </ol>
-                        </div>
-                        <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/developmentweb.png" alt="">
-                            <div class="courses-overlay">
-                                <a class="btn btn-outline-dark border-2" href="">Read More</a>
-                            </div>
-                        </div> -->
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
     </div>
     <!-- Courses End -->
-
-
 		<!-- Back to Top -->
 		<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"
-			><i class="bi bi-arrow-up"></i
-		></a>
+			><i class="bi bi-arrow-up"></i></a>
 		<!-- Back to Top -->
 		<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"
-			><i class="bi bi-arrow-up"></i
-		></a>
-
+			><i class="bi bi-arrow-up"></i></a>
 		<!-- JavaScript Libraries -->
 		<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
@@ -367,7 +189,6 @@
 		<script src="lib/easing/easing.min.js"></script>
 		<script src="lib/waypoints/waypoints.min.js"></script>
 		<script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
 		<!-- Template Javascript -->
 		<script src="js/main.js"></script>
 		<script src="js/jquery.magnific-popup.min.js"></script>
