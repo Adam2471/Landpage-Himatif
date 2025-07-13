@@ -38,10 +38,10 @@ html {
   scroll-behavior: smooth;
 
   /* ✅ Prefix sesuai urutan dukungan browser */
-  -webkit-text-size-adjust: 100%; /* Safari, Chrome, iOS Safari */
-  -ms-text-size-adjust: 100%;     /* Internet Explorer */
-  -moz-text-size-adjust: 100%;    /* Firefox (beberapa versi lama) */
-  text-size-adjust: 100%;         /* Standar modern (may not be supported) */
+  /* -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;     */
+  /* -moz-text-size-adjust: 100%;
+  text-size-adjust: 100%;     */
 }
 
 /* Sections
@@ -2560,7 +2560,7 @@ a:active {
 	display: inline-block;
 	border-right: 1px solid #e5e5e5;
 	padding: 0px 31px;
-	float: left;
+	/* float: left; kode ori*/
 }
 .topbar_menu ul li:first-child {
 	padding-left: 0px;
@@ -2603,7 +2603,7 @@ a:active {
 	display: inline-block;
 	border-right: 1px solid #e5e5e5;
 	padding: 0px 31px;
-	float: left;
+	/* float: left;kode ori */
 }
 .topbar-info li:last-child {
 	border-right: none;
@@ -4670,7 +4670,7 @@ a:active {
 	clear: both;
 }
 .blog-grid .masonry-post-item {
-	float: left;
+	/* float: left;kode ori */
 	width: 33.3333333333%;
 	display: inline-block;
 	padding-bottom: 15px;
@@ -5157,7 +5157,7 @@ a:active {
 .instafeed-gallery .instafeed-item {
 	display: inline-block;
 	width: 33.33333333%;
-	float: left;
+	/* float: left;kode ori */
 }
 .instafeed-gallery .instafeed-item a {
 	display: inline-block;
@@ -7920,7 +7920,7 @@ div.elementor-widget-wrap > .elementor-element.btn-inline {
 .project-item {
 	float: left;
 	width: 33.3333333333%;
-	display: inline-block;
+	/* display: inline-block; kode ori */
 	padding-top: 15px;
 	padding-bottom: 15px;
 	padding-left: 15px;

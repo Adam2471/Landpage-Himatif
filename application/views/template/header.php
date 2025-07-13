@@ -126,7 +126,7 @@
 								>Hubin Hubeks</a>
 						</div>
 					</div>
-					<a href="#" class="nav-item nav-link" style="text-transform: capitalize;">iTech</a>
+					<!-- <a href="#" class="nav-item nav-link" style="text-transform: capitalize;">iTech</a> kode -->
 					<a href="#" class="nav-item nav-link" style="text-transform: capitalize;">Galeri</a>
 					<div class="nav-item dropdown">
 						<a href="#" class="nav-link dropdown-toggle" style="text-transform: capitalize;" data-bs-toggle="dropdown"

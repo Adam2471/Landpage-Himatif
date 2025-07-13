@@ -60,7 +60,7 @@
 						<div class="position-relative overflow-hidden pe-5 pt-5 h-100"
 							style="min-height: 400px">
 							<img class="position-absolute w-100 h-90"
-								src="<?php base_url() ?>../assets/img/images/dpt/L1.png"
+								src="<?php base_url() ?>../assets/img/images/dpt/litbang.png"
 								alt=""
 								style="object-fit: cover"/>
 						</div>
