@@ -63,8 +63,7 @@
 					class="carousel-control-prev"
 					type="button"
 					data-bs-target="#header-carousel"
-					data-bs-slide="prev"
-				>
+					data-bs-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="visually-hidden">Previous</span>
 				</button>
@@ -72,8 +71,7 @@
 					class="carousel-control-next"
 					type="button"
 					data-bs-target="#header-carousel"
-					data-bs-slide="next"
-				>
+					data-bs-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="visually-hidden">Next</span>
 				</button>
@@ -90,22 +88,16 @@
 			<div class="container">
 				<div class="row g-5">
 					<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-						<div
-							class="position-relative overflow-hidden ps-5 pt-5 h-100"
-							style="min-height: 400px"
-						>
-							<img
-								class="position-absolute w-100 h-100"
+						<div class="position-relative overflow-hidden ps-5 pt-5 h-100"
+							style="min-height: 400px">
+							<img class="position-absolute w-100 h-100"
 								src="<?php base_url() ?>../assets/img/itbootcamp/mubes/1.png"
 								alt=""
-								style="object-fit: cover"
-							/>
-							<img
-								class="position-absolute top-0 start-0 bg-white pe-3 pb-3"
+								style="object-fit: cover"/>
+							<img class="position-absolute top-0 start-0 bg-white pe-3 pb-3"
 								src="<?php base_url() ?>../assets/img/logo/him.png"
 								alt=""
-								style="width: 200px; height: 200px"
-							/>
+								style="width: 200px; height: 200px"/>
 						</div>
 					</div>
 					<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -122,9 +114,7 @@
 								Bangsa pada tanggal 29 bulan Februari tahun 2020.
 							</p>
 							<p>
-								<span class="text-center" style="color: red"
-									><b> VISI </b></span
-								>
+								<span class="text-center" style="color: red"><b> VISI </b></span>
 							</p>
 
 							<p style="text-align: justify">
@@ -136,9 +126,7 @@
 							</p>
 
 							<p>
-								<span class="text-center" style="color: red"
-									><b> MISI </b></span
-								>
+								<span class="text-center" style="color: red"><b> MISI </b></span>
 							</p>
 
 							<div class="row g-2 mb-4 pb-2">
@@ -173,12 +161,9 @@
 							</div>
 							<div class="row g-4">
 								<div class="col-sm-6">
-									<a
-										class="btn btn-outline-dark py-3 px-5"
+									<a class="btn btn-outline-dark py-3 px-5"
 										style ="border-radius: 10px"
-										href="https://www.youtube.com/watch?v=_Oqe7qaoE6Y"
-										>Lihat Film Dukumenter</a
-									>
+										href="https://www.youtube.com/watch?v=_Oqe7qaoE6Y">Lihat Film Dukumenter</a>
 								</div>
 								<!-- <div class="col-sm-6">
 									<a
@@ -204,11 +189,9 @@
 		<!-- Department -->
 		<div class="container-xxl py-6">
 			<div class="container">
-				<div
-					class="text-center mx-auto mb-5 wow fadeInUp"
+				<div class="text-center mx-auto mb-5 wow fadeInUp"
 					data-wow-delay="0.1s"
-					style="max-width: 500px"
-				>
+					style="max-width: 500px">
 					<h1 class="display-6 mb-4">DEPARTEMEN</h1>
 				</div>
 				<div class="row g-0 team-items">
@@ -218,19 +201,14 @@
 							<div class="position-relative">
 								<img class="img-fluid" src="<?php echo base_url(). 'assets/img/images/dpt/po.png' ?>" alt="" />
 								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
 										href="<?php echo base_url(). 'himatif/po' ?>"
-										><i class="bi bi-hand-index-fill"></i
-									></a>
+										><i class="bi bi-hand-index-fill"></i></a>
 								</div>
 							</div>
 							<div class="bg-light text-center p-4">
 								<h5 class="mt-2">DEPT. PO</h5>
-								<p
-									>Departemen yang berfokus pada pengembangan dalam
-									organisasi</p
-								>
+								<p>Departemen yang berfokus pada pengembangan dalam organisasi</p>
 							</div>
 						</div>
 					</div>
@@ -241,11 +219,9 @@
 							<div class="position-relative">
 								<img class="img-fluid" src="<?php echo base_url(). 'assets/img/images/dpt/medkom.png' ?>" alt="" />
 								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href="<?php echo base_url(). 'himatif/medkom' ?>"
-										><i class="bi bi-hand-index-fill"></i
-									></a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="<?php echo base_url(). 'himatif/medkom' ?>">
+										<i class="bi bi-hand-index-fill"></i></a>
 								</div>
 							</div>
 							<div class="bg-light text-center p-4">
@@ -261,11 +237,9 @@
 							<div class="position-relative">
 								<img class="img-fluid" src="<?php echo base_url(). 'assets/img/images/dpt/miba.png' ?>" alt="" />
 								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href="<?php echo base_url(). 'himatif/miba' ?>"
-										><i class="bi bi-hand-index-fill"></i
-									></a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="<?php echo base_url(). 'himatif/miba' ?>">
+										<i class="bi bi-hand-index-fill"></i></a>
 								</div>
 							</div>
 							<div class="bg-light text-center p-4">
@@ -285,19 +259,14 @@
 							<div class="position-relative">
 								<img class="img-fluid" src="<?php base_url() ?>../assets/img/images/dpt/litbang.png" alt="" />
 								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href="<?php echo base_url(). 'himatif/litbang' ?>"
-										><i class="bi bi-hand-index-fill"></i
-									></a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="<?php echo base_url(). 'himatif/litbang' ?>">
+										<i class="bi bi-hand-index-fill"></i></a>
 								</div>
 							</div>
 							<div class="bg-light text-center p-4">
 								<h5 class="mt-2">DEPT. LITBANG</h5>
-								<p
-									>Departemen yang menangani masalah penelitian dan
-									pengembangan</p
-								>
+								<p>Departemen yang menangani masalah penelitian dan pengembangan</p>
 							</div>
 						</div>
 					</div>
@@ -311,19 +280,14 @@
 							<div class="position-relative">
 								<img class="img-fluid" src="<?php echo base_url(). 'assets/img/images/dpt/hubineks.png' ?>" alt="" />
 								<div class="team-social text-center">
-									<a
-										class="btn btn-square btn-outline-primary border-2 m-1"
-										href="<?php echo base_url(). 'himatif/hubin' ?>"
-										><i class="bi bi-hand-index-fill"></i
-									></a>
+									<a class="btn btn-square btn-outline-primary border-2 m-1"
+										href="<?php echo base_url(). 'himatif/hubin' ?>">
+										<i class="bi bi-hand-index-fill"></i></a>
 								</div>
 							</div>
 							<div class="bg-light text-center p-4">
 								<h5 class="mt-2">DEPT. HUBIN HUBEKS</h5>
-								<p
-									>Departemen yang menjalin hubungan didalam dan luar
-									kampus</p
-								>
+								<p>Departemen yang menjalin hubungan didalam dan luar kampus</p>
 							</div>
 						</div>
 					</div>
@@ -395,18 +359,13 @@
 					<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
 						<div
 							class="position-relative overflow-hidden ps-5 pt-5 h-100"
-							style="min-height: 400px"
-						>
-							<img
-								class="position-absolute w-100 h-100"
+							style="min-height: 400px">
+							<img class="position-absolute w-100 h-100"
 								src="<?php echo base_url(). 'assets/img/proker/kotakaspirasi.png' ?>" alt=""
-								style="object-fit: cover"
-							/>
-							<!-- <img
-								class="position-absolute top-0 start-0 bg-white pe-3 pb-3"
+								style="object-fit: cover"/>
+							<!-- <img class="position-absolute top-0 start-0 bg-white pe-3 pb-3"
 								src="<?php echo base_url(). 'assets/img/logo/him.png' ?>" alt=""
-								style="width: 200px; height: 200px"
-							/> -->
+								style="width: 200px; height: 200px"/> -->
 						</div>
 					</div>
 					<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -422,23 +381,19 @@
 							<div class="row g-3">
 								<div class="col-md-6">
 									<div class="form-floating">
-										<input
-											type="text"
+										<input type="text"
 											class="form-control border-0 bg-light"
 											id="name"
-											placeholder="Your Name"
-										/>
+											placeholder="Your Name"/>
 										<label for="name">Your Name</label>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="form-floating">
-										<input
-											type="email"
+										<input type="email"
 											class="form-control border-0 bg-light"
 											id="email"
-											placeholder="Your Email"
-										/>
+											placeholder="Your Email"/>
 										<label for="email">Your Email</label>
 									</div>
 								</div>

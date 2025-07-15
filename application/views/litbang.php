@@ -160,7 +160,7 @@
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/kelasbelajar.png" alt="">
+                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/himnec.jpg" alt="">
                             <div class="courses-overlay">
                                 <a class="btn btn-outline-dark border-2" href="#">Read More</a>
                             </div>
