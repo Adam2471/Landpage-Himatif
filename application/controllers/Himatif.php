@@ -1,7 +1,17 @@
 <?php
-
+/**
+ * @property CI_Input $input
+ * @property CI_Upload $upload
+ * @property CI_Loader $load
+ * @property M_login $m_login
+ */
 class himatif extends CI_Controller
 {
+    public function galeri()
+    {
+    $this->load->view('galeri');
+    }
+
 
     function index()
     {

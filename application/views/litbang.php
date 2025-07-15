@@ -60,7 +60,7 @@
 						<div class="position-relative overflow-hidden pe-5 pt-5 h-100"
 							style="min-height: 400px">
 							<img class="position-absolute w-100 h-90"
-								src="<?php base_url() ?>../assets/img/images/dpt/L1.png"
+								src="<?php base_url() ?>../assets/img/images/dpt/litbang.png"
 								alt=""
 								style="object-fit: cover"/>
 						</div>
@@ -160,7 +160,7 @@
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/kelasbelajar.png" alt="">
+                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/himnec.jpg" alt="">
                             <div class="courses-overlay">
                                 <a class="btn btn-outline-dark border-2" href="#">Read More</a>
                             </div>

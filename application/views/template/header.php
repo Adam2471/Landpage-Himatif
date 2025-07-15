@@ -63,7 +63,8 @@
 				<div class="col-lg-5 px-5 text-end">
 					<div class="h-100 d-inline-flex align-items-center me-4">
 						<small class="fa fa-phone-alt text-primary me-2"></small>
-						<small>087775365921</small>
+						<!-- <small>087775365921</small>nomer ori -->
+						<small>089506047143</small>
 					</div>
 					<div class="h-100 d-inline-flex align-items-center mx-n2">
 						<a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary"
@@ -126,8 +127,9 @@
 								>Hubin Hubeks</a>
 						</div>
 					</div>
-					<a href="#" class="nav-item nav-link" style="text-transform: capitalize;">iTech</a>
-					<a href="#" class="nav-item nav-link" style="text-transform: capitalize;">Galeri</a>
+					<!-- <a href="#" class="nav-item nav-link" style="text-transform: capitalize;">iTech</a> kode -->
+					<a href="<?php echo base_url()?>himatif/galeri" class="nav-item nav-link" style="text-transform: capitalize;"
+						>Galeri</a>
 					<div class="nav-item dropdown">
 						<a href="#" class="nav-link dropdown-toggle" style="text-transform: capitalize;" data-bs-toggle="dropdown"
 							>Event</a>

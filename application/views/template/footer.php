@@ -40,21 +40,17 @@
 						<h6 class="text-white mt-6 mb-3">Follow Us</h6>
 						<div class="d-flex pt-2">
 						
-							<a class="btn btn-square btn-outline-light me-1" href=""
-								><i class="fab fa-facebook-f"></i
-							></a>
-							<a class="btn btn-square btn-outline-light me-1" href="https://www.youtube.com/channel/UC7SGrlmtAaBh2XTPpSO2Gfg"
-								><i class="fab fa-youtube"></i
-							></a>
-							<a class="btn btn-square btn-outline-light me-0" href="https://www.instagram.com/himatif_pb/?hl=id"
-								><i class="fab fa-instagram"></i
-							></a>
+							<a class="btn btn-square btn-outline-light me-1" href="">
+								<i class="fab fa-facebook-f"></i></a>
+							<a class="btn btn-square btn-outline-light me-1" href="https://www.youtube.com/channel/UC7SGrlmtAaBh2XTPpSO2Gfg">
+								<i class="fab fa-youtube"></i></a>
+							<a class="btn btn-square btn-outline-light me-0" href="https://www.instagram.com/himatif_pb/?hl=id">
+								<i class="fab fa-instagram"></i></a>
 						</div>
 					</br>
 						<div class="col-lg-4 col-md-2 h-800 w-200">
 							<a href="https://www.indowebsite.co.id/">
 								<img src="<?php base_url() ?>../assets/img/images/iw.png" alt="" >
-
 							</a>
 						</div>
 					</div>
@@ -77,21 +73,18 @@
 						<i class="balloon-heart-fill"></i>
 						<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
 						Designed By <a href="#">Departemen LITBANG</a>
-					
 					</div>
 				</div>
 			</div>
 		</div>
 		<!-- Copyright End -->
 		<!-- Back to Top -->
-		<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"
-			><i class="bi bi-arrow-up"></i
-		></a>
+		<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top">
+			<i class="bi bi-arrow-up"></i></a>
 
 		<!-- Back to Top -->
-		<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"
-			><i class="bi bi-arrow-up"></i
-		></a>
+		<a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top">
+			<i class="bi bi-arrow-up"></i></a>
 
 		<!-- JavaScript Libraries -->
 		<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
