@@ -73,7 +73,7 @@
 		<div class="container-xxl py-6">
     	<div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px">
-            <h4 class="display-6 mb-20">Tim Penelitian Dan Pengembangan</h4>
+            <h4 class="display-6 mb-20">Tim LITBANG</h4>
             <h6 class="text-primary text-uppercase mb-2"></h6>
         </div>
 		<!-- Baris adam (tengah atas) -->
@@ -160,7 +160,7 @@
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/himnec.jpg" alt="">
+                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/himnec25.jpg" alt="">
                             <div class="courses-overlay">
                                 <a class="btn btn-outline-dark border-2" href="#">Read More</a>
                             </div>

@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://himatif.pelitabangsa.ac.id/';
-$config['base_url'] = 'http://localhost/hima/';
+$config['base_url'] = 'http://localhost/hima';
 
 /*
 |--------------------------------------------------------------------------

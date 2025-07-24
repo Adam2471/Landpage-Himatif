@@ -77,8 +77,8 @@
 						>
 							<img
 								class="position-absolute w-100 h-90"
-								src="<?php base_url() ?>../assets/img/images/dpt/L5.png"
-								alt=""
+								src="<?php base_url() ?>../assets/img/images/dpt/hubineks.png"
+								alt="logo departemen hubineks"
 								style="object-fit: cover"
 							/>
 						</div>
@@ -92,7 +92,7 @@
 		<div class="container-xxl py-6">
     	<div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px">
-            <h4 class="display-6 mb-20">Tim Hubin Hubeks</h4>
+            <h4 class="display-6 mb-20">Tim HUBIN HUBEKS</h4>
             <h6 class="text-primary text-uppercase mb-2"></h6>
         </div>
 		<!-- Baris rai (tengah atas) -->
@@ -167,6 +167,46 @@
 				<div class="col-lg-1 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
 					</div>
                     <!-- End -->
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
+                        <div class="text-center p-3 pt-0">
+                            <h5 class="mb-3">HIMATIF BERKAH RAMADHAN</h5>
+                            <p style="text-align: justify; text-indent: 0.5in;" >Kegiatan bersosialisasi dengan membagikan takjil kepada orang-orang dijalan yang hendak berbuka puasa
+								dan berbuka bersama dengan mahasiswa Teknik Informatika Univ. Pelita Bangsa. 
+							</p>
+                            <ol class="breadcrumb justify-content-center mb-0">
+                            	<li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Mei 2025</li>
+                            </ol>
+                        </div>
+                        <div class="position-relative mt-auto">
+                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/himaber.jpg" alt="dokumentasi kegiatan himaber">
+                            <div class="courses-overlay">
+                                <a class="btn btn-outline-primary border-2" href="">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
+                        <div class="text-center p-4 pt-0">
+                           <h5 class="mb-3">DIESNATALIS HIMATIF</h5>
+                            <p style="text-align: justify; text-indent: 0.5in;">Merayakan hari jadi HIMATIF Univ. Pelita Bangsa dan bersilaturahmi dengan Mahasiswa
+								Teknik Informatika dan alumni HIMATIF Univ. Pelita Bangsa.
+							</p>
+                            <ol class="breadcrumb justify-content-center mb-0">
+                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Juli 2025</li>
+                            </ol>
+                        </div>
+                        <div class="position-relative mt-auto">
+                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/diesnat25.jpg" alt="dokumentasi kegiatan diesnat">
+                            <div class="courses-overlay">
+                                <a class="btn btn-outline-primary border-2" href="">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
                         <div class="text-center p-4 pt-0">
@@ -180,51 +220,15 @@
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/jendelakampus.png" alt="">
+                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/higosh.jpg" alt="dokumentasi kegiatan higosh">
                             <div class="courses-overlay">
                                 <a class="btn btn-outline-primary border-2" href="">Read More</a>
                             </div>
                         </div>
                     </div>
                 </div>
-				<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
-                        <div class="text-center p-3 pt-0">
-                            <h5 class="mb-3">HIMATIF BERKAH RAMADHAN</h5>
-                            <p style="text-align: justify; text-indent: 0.5in;" >Kegiatan bersosialisasi dengan membagikan takjil kepada orang-orang dijalan yang hendak berbuka puasa
-								dan berbuka bersama dengan mahasiswa Teknik Informatika Univ. Pelita Bangsa. 
-							</p>
-                            <ol class="breadcrumb justify-content-center mb-0">
-                            	<li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Ramadhan 2025</li>
-                            </ol>
-                        </div>
-                        <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/buramram.png" alt="">
-                            <div class="courses-overlay">
-                                <a class="btn btn-outline-primary border-2" href="">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-				<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
-                        <div class="text-center p-4 pt-0">
-                           <h5 class="mb-3">DIESNATALIS HIMATIF</h5>
-                            <p style="text-align: justify; text-indent: 0.5in;">Merayakan hari jadi HIMATIF Univ. Pelita Bangsa dan bersilaturahmi dengan Mahasiswa
-								Teknik Informatika dan alumni HIMATIF Univ. Pelita Bangsa.
-							</p>
-                            <ol class="breadcrumb justify-content-center mb-0">
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Kondisional</li>
-                            </ol>
-                        </div>
-                        <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/bakdes.png" alt="">
-                            <div class="courses-overlay">
-                                <a class="btn btn-outline-primary border-2" href="">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+				
+				
 				<!-- Pembatas -->
 				<div class="col-lg-1 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
 					</div>
