@@ -52,8 +52,8 @@
 						<div class="position-relative overflow-hidden pe-5 pt-5 h-100"
 							style="min-height: 400px">
 							<img class="position-absolute w-100 h-1200"
-								src="<?php base_url() ?>../assets/img/images/dpt/L4.png"
-								alt=""
+								src="<?php base_url() ?>../assets/img/images/dpt/miba.png"
+								alt="logo departemen miba"
 								style="object-fit: cover"/>
 						</div>
 					</div>
@@ -166,11 +166,11 @@
 								- Seminar Nasional
 							</p>
                             <ol class="breadcrumb justify-content-center mb-0">
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Agustus s/d September 2025</li>
+                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>September 2025</li>
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/logo/ITFAST.png" alt="">
+                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/logo/fast25.png" alt="dokumentasi kegiatan fast">
                             <div class="courses-overlay">
                                 <a class="btn btn-outline-primary border-2" href="<?php echo base_url(). 'himatif/itfast_2' ?>">Read More</a>
                             </div>
@@ -188,11 +188,11 @@
 								- HIMSCOPE Futsal
 								- HIMSCOPE Mobile Legend
                             <ol class="breadcrumb justify-content-center mb-0">
-                               <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Agustus s/d September 2025</li>
+                               <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Oktoberber 2025</li>
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/kempel.png" alt="">
+                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/himscope25.png" alt="dokumentasi kegiatan himscope">
                             <div class="courses-overlay">
                                 <a class="btn btn-outline-primary border-2" href="">Read More</a>
                             </div>

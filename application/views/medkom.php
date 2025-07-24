@@ -64,7 +64,7 @@
 						<div
 							class="position-relative overflow-hidden pe-5 pt-5 h-100"
 							style="min-height: 400px">
-							<img class="position-absolute w-100 h-50" src="<?php base_url() ?>../assets/img/images/dpt/L2.png" alt="" style="object-fit: cover"/>
+							<img class="position-absolute w-100 h-50" src="<?php base_url() ?>../assets/img/images/dpt/medkom.png" alt="logo departemen medkom" style="object-fit: cover"/>
 						</div>
 					</div>
 				</div>
@@ -76,7 +76,7 @@
 		<div class="container-xxl py-6">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px">
-            <h4 class="display-6 mb-20">Tim Medkominfo</h4>
+            <h4 class="display-6 mb-20">Tim MEDKOM</h4>
             <h6 class="text-primary text-uppercase mb-2"></h6>
         </div>
 
@@ -138,65 +138,60 @@
         </div>
     </div>
 </div>
-
-		<!-- Team End -->
-
-
-
-    <!-- Courses Start -->
+<!-- Team End -->
+<!-- Courses Start -->
     <div class="container-xxl py-6">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                
                 <h1 class="display-6 mb-4">PROGRAM KERJA</h1>
             </div>
+            
+            <!-- gabungkan ke dalam satu row -->
             <div class="row g-4 justify-content-center">
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
-                        <div class="text-center p-4 pt-0">
-                            <h5 class="mb-3">Seminar Nasional
-                            </h5>
-                            <p style="text-align: justify;">Kegiatan sharing antara pengisi materi dengan Mahasiswa yang bertujuan untuk mengkaji isu-isu keilmuan tentang Informatika.
-								Seminar Nasional ini akan diselenggarakan bersamaan dengan program kerja Departemen Minat dan Bakat yaitu FAST UPB 2025.
-                                </p>
-                            <ol class="breadcrumb justify-content-center mb-0">
-                               
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Agustus 2025</li>
-                            </ol>
-                        </div>
-                        <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/semnas.png" alt="">
-                            <div class="courses-overlay">
-                                <a class="btn btn-outline-primary border-2" href="">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="courses-item d-flex flex-column bg-white overflow-hidden h-200">
-                        <div class="text-center p-4 pt-0">
-                            
-                            <h5 class="mb-3">Lomba Photography</h5>
-                            <p style="text-align: justify;">Kegiatan ini memanfaatkan Teknologi Fotografi digital untuk meningkatkan kreativitas
+                <!-- lomba photography -->
+            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="courses-item d-flex flex-column bg-white overflow-hidden h-200">
+                    <div class="text-center p-4 pt-0">
+                        <h5 class="mb-3">Lomba Photography</h5>
+                        <p style="text-align: justify;">Kegiatan ini memanfaatkan Teknologi Fotografi digital untuk meningkatkan kreativitas
 								Mahasiswa Teknik Informatika Universitas Pelita Bangsa ataupun masyarakat umum.
 								Kegiatan ini akan dilaksanakan dalam perlombaan. Lomba Photography ini akan
-								diselenggarakan bersamaan dengan program kerja Departemen Minat dan Bakat yaitu FAST UPB 2025.
-								
-							</p>
+								diselenggarakan bersamaan dengan program kerja Departemen Minat dan Bakat yaitu FAST UPB 2025.</p>
                             <ol class="breadcrumb justify-content-center mb-0">
-                            
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Agustus 2025</li>
+                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>September 2025</li>
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/videochannel.png" alt="">
+                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/fotograpi25.png" alt="dokumentasi kegiatan photography">
                             <div class="courses-overlay">
                                 <a class="btn btn-outline-primary border-2" href="">Read More</a>
                             </div>
                         </div>
                     </div>
                 </div>
-			</div>
-        </div>
+
+                <!-- semnas -->
+                <!-- <div class="row g-4 justify-content-center"> -->
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="courses-item d-flex flex-column bg-white overflow-hidden h-100">
+                            <div class="text-center p-4 pt-0">
+                                <h5 class="mb-3">Seminar Nasional</h5>
+                                <p style="text-align: justify;">Kegiatan sharing antara pengisi materi dengan Mahasiswa yang bertujuan untuk mengkaji isu-isu keilmuan tentang Informatika.
+                                    Seminar Nasional ini akan diselenggarakan bersamaan dengan program kerja Departemen Minat dan Bakat yaitu FAST UPB 2025.</p>
+                                <ol class="breadcrumb justify-content-center mb-0">
+                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>November 2025</li>
+                                </ol>
+                            </div>
+                            <div class="position-relative mt-auto">
+                                <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/semnas25.png" alt="dokumentasi kegiatan semnas">
+                                <div class="courses-overlay">
+                                    <a class="btn btn-outline-primary border-2" href="">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+                <!-- penutup -->
+		</div>
     </div>
     <!-- Courses End -->

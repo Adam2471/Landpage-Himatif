@@ -60,6 +60,7 @@
         .kegiatan-time {
             font-size: 12px;
             color: #888;
+            font-style: italic;
         }
 
         .kegiatan-box:hover {
@@ -78,6 +79,33 @@
 <div class="galeri-container">
     <!-- Kegiatan 1 -->
     <div class="kegiatan-box">
+        <img src="<?php echo base_url('assets/img/proker/mubes24.jpg'); ?>" alt="mubes">
+        <div class="kegiatan-content">
+            <div class="kegiatan-title">Musyawarah Besar</div>
+            <div class="kegiatan-desc">Kegiatan rutinan yang di laksanakan setiap akhir masa jabatan selama 1 periode kepengurusan</div>
+            <div class="kegiatan-time">Desember 2024</div>
+        </div>
+    </div>
+    <!-- Kegiatan 2 -->
+    <div class="kegiatan-box">
+        <img src="<?php echo base_url('assets/img/proker/mop25.jpg'); ?>" alt="mop">
+        <div class="kegiatan-content">
+            <div class="kegiatan-title">Masa Orientasi Pengurus</div>
+            <div class="kegiatan-desc">Agenda yang dilaksanakan untuk pembekalan bagi calon pengurus selama 1 periode kepengurusan.</div>
+            <div class="kegiatan-time">Desember 2024</div>
+        </div>
+    </div>
+    <!-- Kegiatan 3 -->
+    <div class="kegiatan-box">
+        <img src="<?php echo base_url('assets/img/proker/raker25.jpg'); ?>" alt="raker">
+        <div class="kegiatan-content">
+            <div class="kegiatan-title">Rapat Kerja</div>
+            <div class="kegiatan-desc">Perancangan program kerja yang akan dilaksanakan selama 1 periode kepengurusan.</div>
+            <div class="kegiatan-time">Februari 2025</div>
+        </div>
+    </div>
+    <!-- Kegiatan 4 -->
+    <div class="kegiatan-box">
         <img src="<?php echo base_url('assets/img/proker/pelantikan.jpg'); ?>" alt="pelantikan">
         <div class="kegiatan-content">
             <div class="kegiatan-title">Pelantikan</div>
@@ -85,18 +113,25 @@
             <div class="kegiatan-time">Maret 2025</div>
         </div>
     </div>
-
-    <!-- Kegiatan 2 -->
+    <!-- Kegiatan 5 -->
+    <div class="kegiatan-box">
+        <img src="<?php echo base_url('assets/img/proker/pengenalan25.jpg'); ?>" alt="pengenalan">
+        <div class="kegiatan-content">
+            <div class="kegiatan-title">Pengenalan Anggota Muda Dan Pengurus</div>
+            <div class="kegiatan-desc">Guna mempererat dan membangun sinergi untuk bekerjasama selama 1 periode.</div>
+            <div class="kegiatan-time">Maret 2025</div>
+        </div>
+    </div>
+    <!-- Kegiatan 6 -->
     <div class="kegiatan-box">
         <img src="<?php echo base_url('assets/img/proker/himaber.jpg'); ?>" alt="himaber">
         <div class="kegiatan-content">
             <div class="kegiatan-title">Himatif Berkah Ramadhan</div>
             <div class="kegiatan-desc">Program kerja departemen hubin hubeks.</div>
-            <div class="kegiatan-time">April 2025</div>
+            <div class="kegiatan-time">Maret 2025</div>
         </div>
     </div>
-
-    <!-- Kegiatan 3 -->
+    <!-- Kegiatan 7 -->
     <div class="kegiatan-box">
         <img src="<?php echo base_url('assets/img/proker/itbc25.jpg'); ?>" alt="itbc25">
         <div class="kegiatan-content">
@@ -105,14 +140,22 @@
             <div class="kegiatan-time">Mei 2025</div>
         </div>
     </div>
-    
-    <!-- Kegiatan 4 -->
+    <!-- Kegiatan 8 -->
     <div class="kegiatan-box">
-        <img src="<?php echo base_url('assets/img/proker/himnec.jpg'); ?>" alt="himnec">
+        <img src="<?php echo base_url('assets/img/proker/himnec.jpg'); ?>" alt="himnecc">
         <div class="kegiatan-content">
             <div class="kegiatan-title">Himatif Network Class</div>
             <div class="kegiatan-desc">Program kerja departemen penelitian dan pengembangan.</div>
-            <div class="kegiatan-time">Juni 2025</div>
+            <div class="kegiatan-time">Juni s/d Agustus 2025</div>
+        </div>
+    </div>
+    <!-- Kegiatan 9 -->
+    <div class="kegiatan-box">
+        <img src="<?php echo base_url('assets/img/proker/diesnat25.jpg'); ?>" alt="diesnat">
+        <div class="kegiatan-content">
+            <div class="kegiatan-title">Dies Natalis</div>
+            <div class="kegiatan-desc">Program kerja departemen Hubin & Hubeks.</div>
+            <div class="kegiatan-time">Juli 2025</div>
         </div>
     </div>
     <!-- Tambahkan lebih banyak kegiatan sesuai kebutuhan -->

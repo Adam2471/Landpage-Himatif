@@ -73,8 +73,8 @@
 						<div class="position-relative overflow-hidden pe-5 pt-5 h-100"
 							style="min-height: 500px">
 							<img class="position-absolute w-100 h-80"
-								src="<?php base_url() ?>../assets/img/images/dpt/L3.png"
-								alt=""
+								src="<?php base_url() ?>../assets/img/images/dpt/po.png"
+								alt="logo departemen po"
 								style="object-fit: cover"/>
 						</div>
 					</div>
@@ -154,24 +154,20 @@
     <div class="container-xxl py-6">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                
                 <h1 class="display-6 mb-4">PROGRAM KERJA</h1>
             </div>
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="courses-item d-flex flex-column bg-white overflow-hidden h-200">
                         <div class="text-center p-4 pt-0">
-                            <h5 class="mb-3">IT Boot Camp
-                            </h5>
+                            <h5 class="mb-3">IT Boot Camp</h5>
                             <p style="text-align: justify;">Dalam menghadapi tantangan kehidupan sosial dan perkembangan zaman,
 								mahasiswa harus memiliki mental yang tangguh serta kepribadian dan etika yang baik.
 								Dan sebagai mahasiswa yang ikut serta berproses dalam suatu Organisasi Kampus,
 								perlu memahami etika berorganisasi, loyalitas, serta peran dan tanggung jawabnya sebagai mahasiswa
-								dan sadar akan tugas dan fungsinya dalam Organisasi.
-                                </p>
+								dan sadar akan tugas dan fungsinya dalam Organisasi.</p>
                             <ol class="breadcrumb justify-content-center mb-0">
-                               
-                                <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>24-25 Mei 2025</li>
+                               <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>24-25 Mei 2025</li>
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
@@ -185,15 +181,12 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="courses-item d-flex flex-column bg-white overflow-hidden h-200">
                         <div class="text-center p-4 pt-0">
-                            
                             <h5 class="mb-3">Study Banding</h5>
                             <p style="text-align: justify;">Dalam rangka meningkatkan kualitas sumber daya manusia di Organisasi dalam bidang IT
 								maka perlu adanya sebuah acuan terhadap sebuah Instansi atau Lembaga
 								yang telah sukses dalam bidangnya sebagai sarana edukasi Best Praktis
-								yang dibutuhkan dalam dunia Industri.
-							</p>
+								yang dibutuhkan dalam dunia Industri.</p>
                             <ol class="breadcrumb justify-content-center mb-0">
-                            
                                 <li class="breadcrumb-item small"><i class="fa fa-calendar-alt text-primary me-2"></i>Mei s/d Juli 2025</li>
                             </ol>
                         </div>
