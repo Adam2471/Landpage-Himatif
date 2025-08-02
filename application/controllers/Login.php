@@ -1,5 +1,5 @@
 <?php 
- 
+ #[\AllowDynamicProperties]
 class login extends CI_Controller{
  
 	function __construct(){

@@ -1,5 +1,5 @@
 <?php
-
+#[\AllowDynamicProperties]
 class admin extends CI_Controller
 {
 

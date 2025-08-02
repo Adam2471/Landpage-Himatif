@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => '127.0.0.1',
+	'username' => 'RadsDev',
+	'password' => 'belajar_sql123',
 	'database' => 'hima',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',

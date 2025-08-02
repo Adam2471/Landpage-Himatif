@@ -1,5 +1,5 @@
 <?php
-
+#[\AllowDynamicProperties]
 class himatif extends CI_Controller
 {
 
