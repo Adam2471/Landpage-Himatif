@@ -39,7 +39,7 @@
 					<!-- Kolom gambar logo -->
 					<div class="col-lg-6 wow fadeInUp d-flex justify-content-center align-items-center" data-wow-delay="0.5s">
 						<div class="text-center">
-							<img src="<?php base_url() ?>../assets/img/logo/him.png"
+							<img src="<?php echo base_url() ?>assets/img/logo/him.png"
 								alt="Logo HIMA"
 								class="img-fluid"
 								style="width: 80%; max-width: 500px; object-fit: contain;" />
@@ -62,7 +62,7 @@
 					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/fiyah.jpg">
+								<img class="img-fluid" src="<?php echo base_url() ?>assets/img/pengurus/fiyah.jpg">
 								<div class="team-social text-center">
 									<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
 									<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -80,7 +80,7 @@
 					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/windi.jpg">
+								<img class="img-fluid" src="<?php echo base_url() ?>assets/img/pengurus/windi.jpg">
 								<div class="team-social text-center">
 									<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
 									<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -94,4 +94,4 @@
 						</div>
 					</div>
 				</div>
-	</body>
+	<!-- </body> -->

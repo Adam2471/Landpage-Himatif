@@ -3,7 +3,7 @@
 			<div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
 				<div class="carousel-inner">
 					<div class="carousel-item active">
-						<img class="w-100 h-100" src="<?php base_url() ?>../assets/img/Stay.svg" alt="Image" />
+						<img class="w-100 h-100" src="<?php echo base_url() ?>assets/img/Stay.svg" alt="Image" />
 						<div class="carousel-caption">
 							<div class="container">
 								<div class="row justify-content-center">
@@ -91,11 +91,11 @@
 						<div class="position-relative overflow-hidden ps-5 pt-5 h-100"
 							style="min-height: 400px">
 							<img class="position-absolute w-100 h-100"
-								src="<?php base_url() ?>../assets/img/itbootcamp/mubes/1.png"
+								src="<?php echo base_url() ?>assets/img/itbootcamp/mubes/1.png"
 								alt=""
 								style="object-fit: cover"/>
 							<img class="position-absolute top-0 start-0 bg-white pe-3 pb-3"
-								src="<?php base_url() ?>../assets/img/logo/him.png"
+								src="<?php echo base_url() ?>assets/img/logo/him.png"
 								alt=""
 								style="width: 200px; height: 200px"/>
 						</div>
@@ -257,7 +257,7 @@
 					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
 						<div class="team-item position-relative">
 							<div class="position-relative">
-								<img class="img-fluid" src="<?php base_url() ?>../assets/img/images/dpt/litbang.png" alt="" />
+								<img class="img-fluid" src="<?php echo base_url() ?>assets/img/images/dpt/litbang.png" alt="" />
 								<div class="team-social text-center">
 									<a class="btn btn-square btn-outline-primary border-2 m-1"
 										href="<?php echo base_url(). 'himatif/litbang' ?>">

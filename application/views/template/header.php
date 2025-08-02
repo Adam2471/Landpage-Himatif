@@ -9,7 +9,7 @@
 	<meta content="" name="description" />
 
 	<!-- Lgo-->
-	<link href=" <?php base_url() ?>../assets/img/logo/himatif.png" rel="icon" />
+	<link href="<?php echo base_url() ?>assets/img/logo/himatif.png" rel="icon" />
 
 	<!-- Google Web Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -24,23 +24,23 @@
 		rel="stylesheet" />
 
 	<!-- Libraries Stylesheet -->
-	<link href=" <?php base_url() ?>../assets/lib/animate/animate.min.css" rel="stylesheet" />
-	<link href=" <?php base_url() ?>../assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+	<link href="<?php echo base_url() ?>assets/lib/animate/animate.min.css" rel="stylesheet" />
+	<link href="<?php echo base_url() ?>assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
 
 	<!-- Customized Bootstrap Stylesheet -->
-	<link href=" <?php base_url() ?>../assets/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="<?php echo base_url() ?>assets/css/bootstrap.min.css" rel="stylesheet" />
 
-	<link rel="stylesheet" type="text/css" href="<?php base_url() ?>../assets/css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/bootstrap.css">
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/bootstrap.js"></script>
 
 	<!-- Template Stylesheet -->
-	<link href=" <?php base_url() ?>../assets/css/style.css" rel="stylesheet" />
-	<link rel="stylesheet" href=" <?php base_url() ?>../assets/css/font-awesome.css" />
-	<link rel="stylesheet" href=" <?php base_url() ?>../assets/css/royal-preload.css" />
-	<link rel="stylesheet" href=" <?php base_url() ?>../assets/css/owl.carousel.min.css" />
-	<link rel="stylesheet" href=" <?php base_url() ?>../assets/css/font-awesome.css" />
-	<link rel="stylesheet" href=" <?php base_url() ?>../assets/css/magnific-popup.css" />
+	<link href=" <?php echo base_url() ?>assets/css/style.css" rel="stylesheet" />
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/font-awesome.css" />
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/royal-preload.css" />
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/owl.carousel.min.css" />
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/font-awesome.css" />
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/magnific-popup.css" />
 </head>
 
 <body>
@@ -90,7 +90,7 @@
 	<nav style="text-transform: lowercase;" class="navbar navbar-expand-lg bg-dark navbar-light sticky-top p-0">
 		<a href="<?php echo base_url() ?>himatif/index"
 			class="navbar-brand d-flex align-items-center border-end px-4 px-lg-5">
-			<img height="50px" src=" <?php base_url() ?>../assets/img/logo/logo-bg.png" />
+			<img height="50px" src=" <?php echo base_url() ?>assets/img/logo/logo-bg.png" />
 		</a>
 		<button
 			type="button"

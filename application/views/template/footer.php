@@ -45,7 +45,7 @@
 				</br>
 				<div class="col-lg-4 col-md-2 h-800 w-200">
 					<a href="https://www.indowebsite.co.id/">
-						<img src="<?php base_url() ?>../assets/img/images/iw.png" alt="indowebsite"></a>
+						<img src="<?php echo base_url() ?>assets/img/images/iw.png" alt="indowebsite"></a>
 				</div>
 			</div>
 		</div>
@@ -79,20 +79,20 @@
 <!-- JavaScript Libraries -->
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-<script src="<?php base_url() ?>../assets/lib/wow/wow.min.js"></script>
-<script src="<?php base_url() ?>../assets/lib/easing/easing.min.js"></script>
-<script src="<?php base_url() ?>../assets/lib/waypoints/waypoints.min.js"></script>
-<script src="<?php base_url() ?>../assets/lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="<?php echo base_url() ?>assets/lib/wow/wow.min.js"></script>
+<script src="<?php echo base_url() ?>assets/lib/easing/easing.min.js"></script>
+<script src="<?php echo base_url() ?>assets/lib/waypoints/waypoints.min.js"></script>
+<script src="<?php echo base_url() ?>assets/lib/owlcarousel/owl.carousel.min.js"></script>
 
 <!-- Template Javascript -->
-<script src="<?php base_url() ?>../assets/js/main.js"></script>
-<script src="<?php base_url() ?>../assets/js/jquery.magnific-popup.min.js"></script>
-<script src="<?php base_url() ?>../assets/js/royal_preloader.min.js"></script>
-<script src="<?php base_url() ?>../assets/js/jquery.magnific-popup.min.js"></script>
-<script src="<?php base_url() ?>../assets/js/jquery.isotope.min.js"></script>
-<script src="<?php base_url() ?>../assets/js/easypiechart.js"></script>
-<script src="<?php base_url() ?>../assets/js/owl.carousel.min.js"></script>
-<script src="<?php base_url() ?>../assets/js/particles.min.js"></script>
+<script src="<?php echo base_url() ?>assets/js/main.js"></script>
+<script src="<?php echo base_url() ?>assets/js/jquery.magnific-popup.min.js"></script>
+<script src="<?php echo base_url() ?>assets/js/royal_preloader.min.js"></script>
+<script src="<?php echo base_url() ?>assets/js/jquery.magnific-popup.min.js"></script>
+<script src="<?php echo base_url() ?>assets/js/jquery.isotope.min.js"></script>
+<script src="<?php echo base_url() ?>assets/js/easypiechart.js"></script>
+<script src="<?php echo base_url() ?>assets/js/owl.carousel.min.js"></script>
+<script src="<?php echo base_url() ?>assets/js/particles.min.js"></script>
 </body>
 
 </html>
@@ -103,7 +103,7 @@
 		//Preloader
 		Royal_Preloader.config({
 			mode: "logo",
-			logo: "<?php base_url() ?>../assets/img/logo/him.png",
+			logo: "<?php echo base_url() ?>assets/img/logo/him.png",
 			logo_size: [100, 95],
 			showProgress: true,
 			showPercentage: true,
