@@ -193,8 +193,10 @@ img {
 @media screen and (min-width: 576px) {
   .as-hero__container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    /* grid-template-columns: repeat(2, 1fr); */
+    grid-template-columns: 1fr 1fr;
     align-items: center;
+    gap: 2rem;
   }
 }
 
@@ -226,11 +228,16 @@ img {
 .as-hero__img {
   justify-self: center;
   width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
 @media screen and (min-width: 960px) {
   .as-hero__img {
     width: 500px;
+    max-width: 400px;
   }
 }
 

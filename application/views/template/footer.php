@@ -9,7 +9,7 @@
 				</h2>
 				<p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>
 					Jl. Inspeksi Kalimalang No.9, Cibatu, Cikarang Sel., Kabupaten Bekasi, Jawa Barat 17530</p>
-				<p class="mb-2"><i class="fa fa-phone-alt me-3"></i>089631149187
+				<p class="mb-2"><i class="fa fa-phone-alt me-3"></i>089631149187</p>
 				<p class="mb-2"><i class="fa fa-envelope me-3"></i>himatif@pelitabangsa.ac.id</p>
 			</div>
 			<div class="col-lg-4 col-md-8">
@@ -62,7 +62,7 @@
 			</div>
 			<div class="col-md-6 text-center text-md-end">
 				<i class="balloon-heart-fill">
-				</i>Designed By <a href="<?=base_url('Himatif/litbang')?>">Departemen LITBANG</a>
+				</i>Designed By <a href="<?= base_url('Himatif/litbang') ?>">Departemen LITBANG</a>
 			</div>
 		</div>
 	</div>
