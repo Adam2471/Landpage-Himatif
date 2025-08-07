@@ -13,7 +13,7 @@ class himatif extends CI_Controller
     }
 
 
-    function index()
+    public function index()
     {
         $this->load->view('template/header');
         $this->load->view('home');
