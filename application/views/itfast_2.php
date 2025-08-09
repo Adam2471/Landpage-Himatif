@@ -20,6 +20,17 @@
 		<nav class="as-nav as-container">
 			<a href="#" class="as-nav__logo">FAST#5</a>
 
+			<!-- Tombol Hamburger -->
+			<!-- <button class="navbar-toggler d-lg-none" type="button"
+				data-bs-toggle="collapse"
+				data-bs-target="#asNavbar"
+				aria-controls="asNavbar"
+				aria-expanded="false"
+				aria-label="Toggle navigation">
+				
+				<span class="navbar-toggler-icon"></span>
+			</button> -->
+
 			<div class="as-nav__menu" id="nav-menu">
 				<ul class="as-nav__list">
 					<li class="as-nav__item">
@@ -29,10 +40,10 @@
 						<a href="#rangkaiankegiatan" class="as-nav__link">Lomba</a>
 					</li>
 					<li class="as-nav__item">
-						<a href="#partner" class="as-nav__link">Sponsorship</a>
+						<a href="#sponsor" class="as-nav__link">Sponsorship</a>
 					</li>
 					<li class="as-nav__item">
-						<a href="#partner" class="as-nav__link"> Media Partner</a>
+						<a href="#partner" class="as-nav__link">Media Partner</a>
 					</li>
 					<li class="as-nav__item">
 						<a href="<?php echo base_url() . 'himatif/contact' ?>" class="as-nav__link"> Contact</a>
@@ -45,6 +56,7 @@
 			</div>
 		</nav>
 	</header>
+
 
 	<main class="as-main">
 		<section id="home" class="as-hero">
@@ -73,323 +85,50 @@
 					loading="lazy"
 					class="as-hero__img"
 					alt="logo fast #5" />
-					<!-- src="<?php echo base_url() ?>assets/img/logo/FASTUPB.png" -->
 			</div>
 		</section>
+		<!-- <br>
 		<br>
 		<br>
 		<br>
-		<br>
-		<br>
+		<br> -->
 		<section id="rangkaiankegiatan" class="as-section">
 			<div class="as-container">
 				<h2 class="as-section__title">Rangkaian Kegiatan</h2>
 				<p class="as-section__description">
-					<!-- Lorem ipsum dolor sit amet ore impedit magnam, voluptatibus iusto
-						cupiditate.
-					</p> -->
 				<div class="as-grid">
+					<!-- lomba 1 -->
 					<article class="as-grid__card">
-
 						<div class="as-grid__card-wrapper">
-							<h3 class="as-grid__title" style="text-align:center">Sport Competition</h3>
-							<img
-								src="<?php echo base_url() ?>assets/img/logo/sportt.png"
-								class="as-grid__image"
-								loading="lazy"
-								alt="contoh" />
+							<h3 class="as-grid__title" style="text-align:center">Badminton Competition</h3>
+							<img src="<?php echo base_url() ?>assets/img/logo/badmin.jpg"
+								class="as-grid__image" loading="lazy" alt="Pamflet badminton competition" />
 							<p class="as-grid__description" style="text-align:center">
-								<b>“Real Strength is Teamwork”</b>
-
+								<b>"Smash the Limits: A Sport of Teamwork and Glory"</b>
 							</p>
-							<br>
-							<br>
-							<i class="bi bi-calendar-week-fill"></i> 01-14 Agustus</i>
-							</br>
-							</br>
+						
+							<i class="bi bi-calendar-week-fill"></i> 18-21 September 2025</i>
+						
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
-
 							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
 							<br>
 							<br>
 							<p class="as-grid__description">Contact Person:</p>
-							<td class="as-grid__description"><a class="bi bi-telephone-fill as-grid__description " href="https://api.whatsapp.com/send?phone=6285779545469&text=Hi kak Romdhon, Saya ingin bertanya nih tentang Sport Competition FAST UPB"> 0857-7954-5469(Romdhon)</a>
+							<td class="as-grid__description">
+								<a class="bi bi-telephone-fill as-grid__description"
+									href="https://api.whatsapp.com/send?phone=6285819282822&text=Hi Kak Okta, 
+								Saya ingin bertanya nih tentang Badminton Competition FAST UPB #5">
+									085819282822(Dwi Okta)</a>
 								</br>
-								<!--<div class="as-grid__button-wrapper">-->
-								<!--	<a href="<?php echo base_url() . 'himatif/lomba_sport' ?>" class="as-grid__button">Daftar</a>-->
-								<!--</div>-->
 						</div>
 					</article>
-					<article class="as-grid__card">
+					<!-- lomba selanjutnya isi disini -->
 
-						<div class="as-grid__card-wrapper">
-							<h3 class="as-grid__title" style="text-align:center">E-sport Competition</h3>
-
-
-							<img
-								src="<?php echo base_url() ?>assets/img/logo/MLClosed.jpeg"
-								class="as-grid__image"
-								loading="lazy"
-								alt="contoh" />
-							<p class="as-grid__description" style="text-align:center">
-								<b>“Survival With Your Technologies ”</b>
-							</p>
-							<br>
-							<br>
-							<i class="bi bi-calendar-week-fill"></i> 03-20 Agustus</i>
-							</br>
-							</br>
-							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
-
-							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
-							</i>
-							<br>
-							<br>
-							<p class="as-grid__description">Contact Person:</p>
-							<td class="as-grid__description"><a class="bi bi-telephone-fill as-grid__description " href="https://api.whatsapp.com/send?phone=6289636802874&text=Hi kak Dzikri, Saya ingin bertanya nih tentang E-sport Competition FAST UPB"> 0896-3680-2874(Dzikri)</a>
-								</br>
-								<!--<div class="as-grid__button-wrapper">-->
-								<!--	<a href="<?php echo base_url() . 'himatif/lomba_esport' ?>" class="as-grid__button" >Daftar</a>-->
-								<!--</div>-->
-						</div>
-					</article>
-
-					<article class="as-grid__card">
-
-						<div class="as-grid__card-wrapper">
-							<h3 class="as-grid__title" style="text-align:center">IOT Competition</h3>
-							<img
-								src="<?php echo base_url() ?>assets/img/logo/NewIOT.jpeg"
-								class="as-grid__image"
-								loading="lazy"
-								alt="contoh" />
-
-							<p class="as-grid__description " style="text-align:center">
-								<b>“Internet of Things for create smart innovation in the economic”</b>
-							</p>
-							<br>
-
-							<i class="bi bi-calendar-week-fill"></i> 11 juni 2022</i>
-							</br>
-							</br>
-							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
-
-							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/1riHeHrORZ5a0Uj17InUxng63P-OG16dD/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
-							</i>
-							<br>
-							<br>
-
-							<p class="as-grid__description ">Silahkan Download File Tamplate Proposal IOT dan Surat Keaslian Karya:
-								<a href="<?php echo base_url() . 'assets/doc/teamplateproposal.pdf' ?>">
-									<p class="as-grid__description bi bi-file-pdf-fill">TeamplateProposal.pdf</p>
-								</a>
-
-								<a href="<?php echo base_url() . 'assets/doc/orisinilIOT.pdf' ?>">
-									<p class="as-grid__description bi bi-file-pdf-fill">SuratPeryataanKeaslianKarya.pdf<p></p>
-								</a>
-							</p>
-							<br>
-							<br>
-							<p class="as-grid__description">Contact Person:</p>
-							<td class="as-grid__description "><a class="bi bi-telephone-fill as-grid__description " href="https://api.whatsapp.com/send?phone=62895326388827&text=Hi kak Dzikri, Saya ingin bertanya nih tentang IOT Competition FAST UPB"> 0895-3263-88827(Linda)</a>
-
-								<!--<div class="as-grid__button-wrapper">-->
-								<!--	<a href="<?php echo base_url() . 'himatif/lomba_iot' ?>" class="as-grid__button">Daftar</a>-->
-								<!--</div>-->
-						</div>
-					</article>
-					<article class="as-grid__card">
-
-						<div class="as-grid__card-wrapper">
-							<h3 class="as-grid__title" style="text-align:center">UI/UX Competition</h3>
-							<img
-								src="<?php echo base_url() ?>assets/img/logo/uiuxclosed.jpeg"
-								class="as-grid__image"
-								loading="lazy"
-								alt="contoh" />
-							<p class="as-grid__description" style="text-align:center">
-								<b>“Implementation of Digital Technologies for Inclusive Future.”</b>
-							</p>
-							<br>
-							<br>
-							<i class="bi bi-calendar-week-fill"></i> 08-21 Agustus</i>
-							<br>
-							<br>
-							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
-							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/1Kt4lSiiIeMWEnpWtAMXzG_K-2ACOzkAq/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
-							</i>
-							<br>
-							<br>
-							<p class="as-grid__description ">Silahkan Download File Tamplate Proposal UI/UX dan Surat Keaslian Karya:
-								<a href="<?php echo base_url() . 'assets/doc/teamplateproposalUIUX.pdf' ?>">
-									<p class="as-grid__description bi bi-file-pdf-fill">TeamplateProposal.pdf</p>
-								</a>
-
-								<a href="<?php echo base_url() . 'assets/doc/orisinilUIUX.pdf' ?>">
-									<p class="as-grid__description bi bi-file-pdf-fill">SuratPeryataanKeaslianKarya.pdf<p></p>
-								</a>
-							</p>
-							<br>
-							<br>
-							<p class="as-grid__description">Contact Person:</p>
-							<td class="as-grid__description"><a class="bi bi-telephone-fill as-grid__description " href="https://api.whatsapp.com/send?phone=6282239715799&text=Hi kak Rino, Saya ingin bertanya nih tentang UI/UX Competition FAST UPB"> 0822-3971-5799(Rino)</a>
-								<!--<div class="as-grid__button-wrapper">-->
-								<!--	<a href="<?php echo base_url() . 'himatif/lomba_uiux' ?>" class="as-grid__button">Daftar</a>-->
-								<!--</div>-->
-						</div>
-					</article>
-					<article class="as-grid__card">
-
-						<div class="as-grid__card-wrapper">
-							<h3 class="as-grid__title" style="text-align:center">Poster Competition</h3>
-							<img
-								src="<?php echo base_url() ?>assets/img/logo/posterclosed.jpeg"
-								class="as-grid__image"
-								loading="lazy"
-								alt="contoh" />
-							<p class="as-grid__description" style="text-align:center">
-								<b>“Menjadikan Ekonomi Kreatif Sebagai Budaya Bangsa ditengah Kemajuan Teknologi”</b>
-							</p>
-							<br>
-							<i class="bi bi-calendar-week-fill"></i> 08-21 Agustus</i>
-							<br>
-							<br>
-							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
-							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/15gNCpLuiwDKrKTiRi89vsV0Mw5sBdPJ2/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
-							</i>
-							<br>
-							<br>
-							<p class="as-grid__description ">Silahkan Download File Surat Keaslian Karya:
-								<a href="<?php echo base_url() . 'assets/doc/Karya Orisinil Poster.pdf' ?>">
-									<p class="as-grid__description bi bi-file-pdf-fill">SuratPeryataanKeaslianKarya.pdf<p></p>
-								</a>
-							</p>
-							<br>
-							<br>
-
-							<p class="as-grid__description">Contact Person:</p>
-							<td class="as-grid__description"><a class="bi bi-telephone-fill as-grid__description " href="https://api.whatsapp.com/send?phone=6289512735024&text=Hi kak Dinda, Saya ingin bertanya nih tentang Poster Competition FAST UPB"> 0895-1273-5024(Dinda)</a>
-								<!--<div class="as-grid__button-wrapper">-->
-								<!--	<a href="<?php echo base_url() . 'himatif/lomba_poster' ?>" class="as-grid__button">Daftar</a>-->
-								<!--</div>-->
-						</div>
-					</article>
-					<article class="as-grid__card">
-
-						<div class="as-grid__card-wrapper">
-							<h3 class="as-grid__title" style="text-align:center">Short Film Competition</h3>
-							<img
-								src="<?php echo base_url() ?>assets/img/logo/shortmovieclosed.jpeg"
-								class="as-grid__image"
-								loading="lazy"
-								alt="contoh" />
-							<p class="as-grid__description" style="text-align:center">
-								<b>“Rise Up Tech Economic In Pandemic”</b>
-							</p>
-							<br>
-							<br>
-							<br>
-							<i class="bi bi-calendar-week-fill"></i> 08-21 Agustus</i>
-							<br>
-							<br>
-							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
-							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/19pT8mdGJT4x435RRI05fVYxQ7KF2p5hb/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
-								<br>
-								<br>
-								<p class="as-grid__description ">Silahkan Download File Surat Keaslian Karya:
-									<a href="<?php echo base_url() . 'assets/doc/orisinilUIUX.pdf' ?>">
-										<p class="as-grid__description bi bi-file-pdf-fill">SuratPeryataanKeaslianKarya.pdf<p></p>
-									</a>
-								</p>
-								<br>
-								<br>
-								<p class="as-grid__description">Contact Person:</p>
-								<td class="as-grid__description"><a class="bi bi-telephone-fill as-grid__description " href="https://api.whatsapp.com/send?phone=6285353985886&text=Hi kak Anggi, Saya ingin bertanya nih tentang Short Movie Competition FAST UPB"> 0853-5398-5886(Anggi)</a>
-							</i>
-							<!--<div class="as-grid__button-wrapper">-->
-							<!--	<a href="<?php echo base_url() . 'himatif/lomba_film' ?>" class="as-grid__button">Daftar</a>-->
-							<!--</div>-->
-						</div>
-					</article>
-					<article class="as-grid__card">
-
-						<div class="as-grid__card-wrapper">
-							<h3 class="as-grid__title" style="text-align:center">Workshop</h3>
-							<img
-								src="<?php echo base_url() ?>assets/img/logo/ClosedWorkshop.jpeg"
-								class="as-grid__image"
-								loading="lazy"
-								alt="contoh" />
-							<p class="as-grid__description" style="text-align:center">
-								<b>“Networking & Programming”</b>
-
-							</p>
-							<br>
-							<br>
-							<br>
-							<i class="bi bi-calendar-week-fill"></i> 03 September 2022</i>
-
-							<br>
-							<br>
-							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
-							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/19pT8mdGJT4x435RRI05fVYxQ7KF2p5hb/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
-							</i>
-							<br>
-							<br>
-							<p class="as-grid__description">Contact Person:</p>
-							<td class="as-grid__description"><a class="bi bi-telephone-fill as-grid__description " href="https://api.whatsapp.com/send?phone=62895320030852&text=Hi kak Fajar, Saya ingin bertanya nih tentang Workshop  FAST UPB"> 0895-3200-30852(Fajar)</a>
-								</i>
-								<br>
-								<br>
-								<div class="as-grid__button-wrapper">
-									<!--<a href="<?php echo base_url() . 'himatif/workshop' ?>" class="as-grid__button">Daftar</a>-->
-								</div>
-						</div>
-					</article>
-					<article class="as-grid__card">
-
-						<div class="as-grid__card-wrapper">
-							<h3 class="as-grid__title" style="text-align:center">SEMINAR NASIONAL</h3>
-							<img
-								src="<?php echo base_url() ?>assets/img/logo/closedSEMNAS.jpeg"
-								class="as-grid__image"
-								loading="lazy"
-								alt="contoh" />
-							<p class="as-grid__description" style="text-align:center">
-								<b>“Optimalisasi Teknologi Untuk Menciptakan Strategi Reparasi Ekonomi Kreatif
-									Di Masa Kontraksi Pandemi Covid - 19.”</b>
-
-							</p>
-							<br>
-							<i class="bi bi-calendar-week-fill"></i> 11 september 2022</i>
-							<br>
-							<br>
-							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
-							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/1aZAgAsDkVaLROEh5qTKKC4BBdkWiuQjU/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
-							</i>
-							<br>
-							<br>
-							<p class="as-grid__description">Contact Person:</p>
-							<td class="as-grid__description"><a class="bi bi-telephone-fill as-grid__description " href="https://api.whatsapp.com/send?phone=6285896654071&text=Hi kak Mita, Saya ingin bertanya nih tentang Seminar  FAST UPB"> 0858-9665-4071(Mita)</a>
-								</i>
-								<br>
-
-								<!--<div class="as-grid__button-wrapper">-->
-								<!--	<a href="<?php echo base_url() . 'himatif/seminar_nasional' ?>" class="as-grid__button">Daftar</a>-->
-								<!--</div>-->
-						</div>
-					</article>
-
-					<article class="as-grid__card">
+					<!-- original layout -->
+					<!-- <article class="as-grid__card">
 						<div class="as-grid__card-wrapper">
 							<h3 class="as-grid__title" style="text-align:center">Festival Musik</h3>
 							<img
@@ -458,87 +197,59 @@
 
 								<br>
 								<div class="as-grid__button-wrapper">
-									<!-- <a href="<?php echo base_url() . 'himatif/festival_musik' ?>" class="as-grid__button">Daftar</a> -->
-								</div>
-						</div>
-					</article>
+								<a href="<?php echo base_url() . 'himatif/festival_musik' ?>" class="as-grid__button">Daftar</a>
+				</div>
+			</div>
+			</article> -->
 				</div>
 			</div>
 		</section>
-		<!-- Sponsorship -->
-
-		<section id="partner" class="as-section as-section-soft">
+		<!-- start Sponsorship-->
+		<section id="sponsor" class="as-section as-section-soft">
 			<div class="as-container">
 				<h2 class="as-section__title">Spoonshorship</h2>
 				<p class="as-section__description">
-					<!-- Lorem ipsum dolor sit amet ore impedit magnam, voluptatibus iusto
-						cupiditate.
-					</p> -->
 				<ul class="as-flex">
 					<li class="as-flex__item">
-						<img
-							src="<?php echo base_url() ?>assets/img/logo/md1.png"
-							class="as-flex__image"
-							alt="contoh" />
+						<img src="<?php echo base_url() ?>assets/img/logo/md1.png"
+							class="as-flex__image" alt="md1" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							src="<?php echo base_url() ?>assets/img/logo/dicoding1.png"
-							class="as-flex__image"
-							alt="contoh" />
+						<img src="<?php echo base_url() ?>assets/img/logo/dicoding1.png"
+							class="as-flex__image" alt="dicoding" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							src="<?php echo base_url() ?>assets/img/logo/ttk1.png"
-							class="as-flex__image"
-							alt="contoh" />
+						<img src="<?php echo base_url() ?>assets/img/logo/ttk1.png"
+							class="as-flex__image" alt="ttk" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							src="<?php echo base_url() ?>assets/img/logo/zero1.png"
-							class="as-flex__image"
-							alt="contoh" />
-					</li>
-
-					<li class="as-flex__item">
-						<img
-							src="<?php echo base_url() ?>assets/img/logo/hero1.png"
-							class="as-flex__image"
-							alt="contoh" />
+						<img src="<?php echo base_url() ?>assets/img/logo/zero1.png"
+							class="as-flex__image" alt="zero" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							class="as-flex__image"
-							alt="" />
+						<img src="<?php echo base_url() ?>assets/img/logo/hero1.png"
+							class="as-flex__image" alt="hero" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							class="as-flex__image"
-							alt="" />
+						<img class="as-flex__image" alt="" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							class="as-flex__image"
-							alt="" />
+						<img class="as-flex__image" alt="" />
 					</li>
-
+					<li class="as-flex__item">
+						<img class="as-flex__image" alt="" />
+					</li>
 				</ul>
 			</div>
 		</section>
 	</main>
-
 	<!-- End Sponsorship -->
 
-
-	<!-- Media Partner-->
-
+	<!-- start Media Partner-->
 	<section id="partner" class="as-section as-section-soft">
 		<div class="as-container">
 			<h2 class="as-section__title">Media Partner </h2>
-			<p class="as-section__description">
-				<!-- Lorem ipsum dolor sit amet ore impedit magnam, voluptatibus iusto
-						cupiditate. -->
-			</p>
+			<p class="as-section__description"></p>
 			<ul class="as-flex">
 				<li class="as-flex__item">
 					<img
@@ -566,26 +277,6 @@
 				</li>
 				<li class="as-flex__item">
 					<img
-						class="as-flex__image"
-						alt="" />
-				</li>
-				<li class="as-flex__item">
-					<img
-						class="as-flex__image"
-						alt="" />
-				</li>
-				<li class="as-flex__item">
-					<img
-						class="as-flex__image"
-						alt="" />
-				</li>
-				<li class="as-flex__item">
-					<img
-						class="as-flex__image"
-						alt="" />
-				</li>
-				<li class="as-flex__item">
-					<img
 						src="<?php echo base_url() ?>assets/img/logo/POJOKAMPUS.png"
 						class="as-flex__image"
 						alt="pojokkampus" />
@@ -596,9 +287,9 @@
 		</div>
 	</section>
 	</main>
-	<br>
-	<br>
-	<br>
+	<!-- <br> -->
+	<!-- <br> -->
+	<!-- <br> -->
 
 	<!-- End Media Partner -->
 
@@ -607,13 +298,7 @@
 		<div class="as-container">
 			<div class="as-footer__container">
 				<div class="as-footer__content">
-					<!-- <a href="#" class="as-footer__social" aria-label="socmed"
-							><i class="bx bxl-facebook"></i
-						></a> -->
 					<a href="https://www.instagram.com/fastupb/" class="as-footer__social" aria-label="socmed"><i class="bx bxl-instagram"></i></a>
-					<!-- <a href="#" class="as-footer__social" aria-label="socmed"
-							><i class="bx bxl-twitter"></i
-						></a> -->
 					<a href="https://www.youtube.com/channel/UC7SGrlmtAaBh2XTPpSO2Gfg" class="as-footer__social" aria-label="socmed"><i class="bx bxl-youtube"></i></a>
 				</div>
 
@@ -629,11 +314,18 @@
 					<a href="#" class="as-footer__link">Kebijakan Privasi</a>
 				</div>
 			</div>
-			<p class="as-footer__copy">&#169; 2022 LITBANG</p>
+			<!-- <p class="as-footer__copy">&#169; Himatif <?php echo date('Y'); ?> Dept Litbang</p> -->
+			<p class="as-footer__copy">© Himatif <span id="year"></span> Dept Litbang</p>
+
+			<script>
+				document.getElementById("year").textContent = new Date().getFullYear();
+			</script>
+
 		</div>
 	</footer>
-
 	<script src="<?php echo base_url() ?>assets/dist/js/app.js"></script>
+	<script src="<?= base_url('assets/js/bootstrap.bundle.min.js') ?>"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

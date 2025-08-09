@@ -128,7 +128,7 @@
                     </div>
                     <div class="bg-light text-center p-3">
                         <h5 class="mt-2">Arbi Bagaskara Putra</h5>
-                        <span>Wakil Ketua Departemen</span>
+                        <span>Sekertaris Departemen</span>
                     </div>
                 </div>
             </div>
@@ -144,7 +144,7 @@
                     </div>
                     <div class="bg-light text-center p-3">
                         <h5 class="mt-2">Hartono</h5>
-                        <span>Sekertaris Departemen</span>
+                        <span>Staff Departemen</span>
                     </div>
                 </div>
             </div>
@@ -220,7 +220,7 @@
                             </ol>
                         </div>
                         <div class="position-relative mt-auto">
-                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/higosh.jpg" alt="dokumentasi kegiatan higosh">
+                            <img class="img-fluid" src="<?php base_url() ?>../assets/img/proker/higosh.jpg" alt="dokumentasi kegiatan">
                             <div class="courses-overlay">
                                 <a class="btn btn-outline-primary border-2" href="">Read More</a>
                             </div>
