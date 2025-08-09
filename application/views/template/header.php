@@ -41,6 +41,10 @@
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/owl.carousel.min.css" />
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/font-awesome.css" />
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/magnific-popup.css" />
+
+	<!-- baru -->
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/custom-fix.css" />
+
 </head>
 
 <body>

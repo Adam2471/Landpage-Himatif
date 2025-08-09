@@ -20,6 +20,17 @@
 		<nav class="as-nav as-container">
 			<a href="#" class="as-nav__logo">FAST#5</a>
 
+			<!-- Tombol Hamburger -->
+			<!-- <button class="navbar-toggler d-lg-none" type="button"
+				data-bs-toggle="collapse"
+				data-bs-target="#asNavbar"
+				aria-controls="asNavbar"
+				aria-expanded="false"
+				aria-label="Toggle navigation">
+				
+				<span class="navbar-toggler-icon"></span>
+			</button> -->
+
 			<div class="as-nav__menu" id="nav-menu">
 				<ul class="as-nav__list">
 					<li class="as-nav__item">
@@ -29,10 +40,10 @@
 						<a href="#rangkaiankegiatan" class="as-nav__link">Lomba</a>
 					</li>
 					<li class="as-nav__item">
-						<a href="#partner" class="as-nav__link">Sponsorship</a>
+						<a href="#sponsor" class="as-nav__link">Sponsorship</a>
 					</li>
 					<li class="as-nav__item">
-						<a href="#partner" class="as-nav__link"> Media Partner</a>
+						<a href="#partner" class="as-nav__link">Media Partner</a>
 					</li>
 					<li class="as-nav__item">
 						<a href="<?php echo base_url() . 'himatif/contact' ?>" class="as-nav__link"> Contact</a>
@@ -45,6 +56,7 @@
 			</div>
 		</nav>
 	</header>
+
 
 	<main class="as-main">
 		<section id="home" class="as-hero">
@@ -75,11 +87,11 @@
 					alt="logo fast #5" />
 			</div>
 		</section>
+		<!-- <br>
 		<br>
 		<br>
 		<br>
-		<br>
-		<br>
+		<br> -->
 		<section id="rangkaiankegiatan" class="as-section">
 			<div class="as-container">
 				<h2 class="as-section__title">Rangkaian Kegiatan</h2>
@@ -94,11 +106,9 @@
 							<p class="as-grid__description" style="text-align:center">
 								<b>"Smash the Limits: A Sport of Teamwork and Glory"</b>
 							</p>
-							<br>
-							<br>
+						
 							<i class="bi bi-calendar-week-fill"></i> 18-21 September 2025</i>
-							</br>
-							</br>
+						
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
 								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
@@ -115,7 +125,7 @@
 								</br>
 						</div>
 					</article>
-					<!-- lomba 2 -->
+					<!-- lomba selanjutnya isi disini -->
 
 					<!-- original layout -->
 					<!-- <article class="as-grid__card">
@@ -187,87 +197,59 @@
 
 								<br>
 								<div class="as-grid__button-wrapper">
-									<!-- <a href="<?php echo base_url() . 'himatif/festival_musik' ?>" class="as-grid__button">Daftar</a> -->
+								<a href="<?php echo base_url() . 'himatif/festival_musik' ?>" class="as-grid__button">Daftar</a>
 				</div>
 			</div>
 			</article> -->
-			</div>
+				</div>
 			</div>
 		</section>
-		<!-- Sponsorship -->
-
-		<section id="partner" class="as-section as-section-soft">
+		<!-- start Sponsorship-->
+		<section id="sponsor" class="as-section as-section-soft">
 			<div class="as-container">
 				<h2 class="as-section__title">Spoonshorship</h2>
 				<p class="as-section__description">
-					<!-- Lorem ipsum dolor sit amet ore impedit magnam, voluptatibus iusto
-						cupiditate.
-					</p> -->
 				<ul class="as-flex">
 					<li class="as-flex__item">
-						<img
-							src="<?php echo base_url() ?>assets/img/logo/md1.png"
-							class="as-flex__image"
-							alt="contoh" />
+						<img src="<?php echo base_url() ?>assets/img/logo/md1.png"
+							class="as-flex__image" alt="md1" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							src="<?php echo base_url() ?>assets/img/logo/dicoding1.png"
-							class="as-flex__image"
-							alt="contoh" />
+						<img src="<?php echo base_url() ?>assets/img/logo/dicoding1.png"
+							class="as-flex__image" alt="dicoding" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							src="<?php echo base_url() ?>assets/img/logo/ttk1.png"
-							class="as-flex__image"
-							alt="contoh" />
+						<img src="<?php echo base_url() ?>assets/img/logo/ttk1.png"
+							class="as-flex__image" alt="ttk" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							src="<?php echo base_url() ?>assets/img/logo/zero1.png"
-							class="as-flex__image"
-							alt="contoh" />
-					</li>
-
-					<li class="as-flex__item">
-						<img
-							src="<?php echo base_url() ?>assets/img/logo/hero1.png"
-							class="as-flex__image"
-							alt="contoh" />
+						<img src="<?php echo base_url() ?>assets/img/logo/zero1.png"
+							class="as-flex__image" alt="zero" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							class="as-flex__image"
-							alt="" />
+						<img src="<?php echo base_url() ?>assets/img/logo/hero1.png"
+							class="as-flex__image" alt="hero" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							class="as-flex__image"
-							alt="" />
+						<img class="as-flex__image" alt="" />
 					</li>
 					<li class="as-flex__item">
-						<img
-							class="as-flex__image"
-							alt="" />
+						<img class="as-flex__image" alt="" />
 					</li>
-
+					<li class="as-flex__item">
+						<img class="as-flex__image" alt="" />
+					</li>
 				</ul>
 			</div>
 		</section>
 	</main>
-
 	<!-- End Sponsorship -->
 
-
-	<!-- Media Partner-->
-
+	<!-- start Media Partner-->
 	<section id="partner" class="as-section as-section-soft">
 		<div class="as-container">
 			<h2 class="as-section__title">Media Partner </h2>
-			<p class="as-section__description">
-				<!-- Lorem ipsum dolor sit amet ore impedit magnam, voluptatibus iusto
-						cupiditate. -->
-			</p>
+			<p class="as-section__description"></p>
 			<ul class="as-flex">
 				<li class="as-flex__item">
 					<img
@@ -295,26 +277,6 @@
 				</li>
 				<li class="as-flex__item">
 					<img
-						class="as-flex__image"
-						alt="" />
-				</li>
-				<li class="as-flex__item">
-					<img
-						class="as-flex__image"
-						alt="" />
-				</li>
-				<li class="as-flex__item">
-					<img
-						class="as-flex__image"
-						alt="" />
-				</li>
-				<li class="as-flex__item">
-					<img
-						class="as-flex__image"
-						alt="" />
-				</li>
-				<li class="as-flex__item">
-					<img
 						src="<?php echo base_url() ?>assets/img/logo/POJOKAMPUS.png"
 						class="as-flex__image"
 						alt="pojokkampus" />
@@ -325,9 +287,9 @@
 		</div>
 	</section>
 	</main>
-	<br>
-	<br>
-	<br>
+	<!-- <br> -->
+	<!-- <br> -->
+	<!-- <br> -->
 
 	<!-- End Media Partner -->
 
@@ -336,13 +298,7 @@
 		<div class="as-container">
 			<div class="as-footer__container">
 				<div class="as-footer__content">
-					<!-- <a href="#" class="as-footer__social" aria-label="socmed"
-							><i class="bx bxl-facebook"></i
-						></a> -->
 					<a href="https://www.instagram.com/fastupb/" class="as-footer__social" aria-label="socmed"><i class="bx bxl-instagram"></i></a>
-					<!-- <a href="#" class="as-footer__social" aria-label="socmed"
-							><i class="bx bxl-twitter"></i
-						></a> -->
 					<a href="https://www.youtube.com/channel/UC7SGrlmtAaBh2XTPpSO2Gfg" class="as-footer__social" aria-label="socmed"><i class="bx bxl-youtube"></i></a>
 				</div>
 
@@ -358,11 +314,18 @@
 					<a href="#" class="as-footer__link">Kebijakan Privasi</a>
 				</div>
 			</div>
-			<p class="as-footer__copy">&#169; 2022 LITBANG</p>
+			<!-- <p class="as-footer__copy">&#169; Himatif <?php echo date('Y'); ?> Dept Litbang</p> -->
+			<p class="as-footer__copy">© Himatif <span id="year"></span> Dept Litbang</p>
+
+			<script>
+				document.getElementById("year").textContent = new Date().getFullYear();
+			</script>
+
 		</div>
 	</footer>
-
 	<script src="<?php echo base_url() ?>assets/dist/js/app.js"></script>
+	<script src="<?= base_url('assets/js/bootstrap.bundle.min.js') ?>"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

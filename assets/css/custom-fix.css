@@ -1,0 +1,22 @@
+/* ==== CUSTOM FIX UNTUK OWL CAROUSEL & HEADER ==== */
+
+/* Hilangkan background hitam di area video/slider */
+.owl-carousel .owl-video-wrapper {
+    background: transparent !important;
+}
+
+/* Hilangkan garis putih di sebelah logo navbar */
+.navbar-brand {
+    border-right: none !important;
+}
+
+/* Kalau mau hilangkan garis putih di mobile juga */
+@media (max-width: 991px) {
+    .navbar-brand {
+        border-right: none !important;
+    }
+}
+/* Pastikan thumbnail video tetap di tengah dan tidak ada warna latar */
+.owl-carousel .owl-video-tn {
+    background-color: transparent !important;
+}

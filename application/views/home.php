@@ -16,15 +16,8 @@
 											href="https://www.youtube.com/watch?v=_Oqe7qaoE6Y"><i class="fas fa-play"></i>
 											<span class="circle-1"></span>
 											<span class="circle-2"></span></a>
-										<h6>"Histoire De Ma Maison"</h6>
 									</div>
 								</div>
-								<!-- <a href="" class="btn btn-primary py-sm-3 px-sm-5"
-											>Learn More</a
-										>
-										<a href="" class="btn btn-light py-sm-3 px-sm-5 ms-3"
-											>Our Courses</a
-										> -->
 							</div>
 						</div>
 					</div>
@@ -43,15 +36,8 @@
 											<i class="fas fa-play"></i>
 											<span class="circle-1"></span>
 											<span class="circle-2"></span></a>
-										<h6>"IT BootCamp"</h6>
 									</div>
 								</div>
-								<!-- <a href="" class="btn btn-primary py-sm-3 px-sm-5"
-											>Learn More</a
-										>
-										<a href="" class="btn btn-light py-sm-3 px-sm-5 ms-3"
-											>Our Courses</a
-										> -->
 							</div>
 						</div>
 					</div>
@@ -164,24 +150,12 @@
 								style="border-radius: 10px"
 								href="https://www.youtube.com/watch?v=_Oqe7qaoE6Y">Lihat Film Dukumenter</a>
 						</div>
-						<!-- <div class="col-sm-6">
-									<a
-										class="d-inline-flex align-items-center btn btn-outline-primary border-2 p-2"
-										href="NoHp:08777536521"
-									>
-										<span class="flex-shrink-0 btn-square bg-primary">
-											<i class="fa fa-phone-alt text-white"></i>
-										</span>
-										<span class="px-3">087775365921</span>
-									</a>
-								</div> -->
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-
 <!-- Features End -->
 
 
