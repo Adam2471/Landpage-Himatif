@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @property CI_Input $input
  * @property CI_Upload $upload
@@ -9,7 +10,7 @@ class himatif extends CI_Controller
 {
     public function galeri()
     {
-    $this->load->view('galeri');
+        $this->load->view('galeri');
     }
 
 
@@ -128,7 +129,7 @@ class himatif extends CI_Controller
 
             $this->load->library('upload', $config);
             if (!$this->upload->do_upload('foto')) {
-                echo "<script>alert('". $this->upload->display_errors() ."');
+                echo "<script>alert('" . $this->upload->display_errors() . "');
 				window.history.back();</script>";
                 die();
             } else {
@@ -168,7 +169,7 @@ class himatif extends CI_Controller
 
                 $this->load->library('upload', $config);
                 if (!$this->upload->do_upload('foto')) {
-                    echo "<script>alert('". $this->upload->display_errors() ." Jika masih error coba registrasi lewat laptop/pc, atau hubungi panitia.');
+                    echo "<script>alert('" . $this->upload->display_errors() . " Jika masih error coba registrasi lewat laptop/pc, atau hubungi panitia.');
 				window.history.back();</script>";
                     die();
                 } else {
@@ -448,7 +449,7 @@ class himatif extends CI_Controller
 
             $this->load->library('upload', $config);
             if (!$this->upload->do_upload('foto')) {
-                echo "<script>alert('". $this->upload->display_errors() ."');
+                echo "<script>alert('" . $this->upload->display_errors() . "');
 				window.history.back();</script>";
                 die();
             } else {
@@ -468,7 +469,7 @@ class himatif extends CI_Controller
         echo "<script>alert('Data berhasil disimpan');
 				location.href = 'itfast_2';</script>";
     }
-        function tambah_aksi_festival_musik()
+    function tambah_aksi_festival_musik()
     {
         $nama = $this->input->post('nama');
         $no_telp = $this->input->post('no_telp');

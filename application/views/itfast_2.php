@@ -125,6 +125,7 @@
 								</br>
 						</div>
 					</article>
+					
 					<!-- lomba selanjutnya isi disini -->
 
 					<!-- original layout -->
@@ -229,16 +230,7 @@
 					<li class="as-flex__item">
 						<img src="<?php echo base_url() ?>assets/img/logo/hero1.png"
 							class="as-flex__image" alt="hero" />
-					</li>
-					<li class="as-flex__item">
-						<img class="as-flex__image" alt="" />
-					</li>
-					<li class="as-flex__item">
-						<img class="as-flex__image" alt="" />
-					</li>
-					<li class="as-flex__item">
-						<img class="as-flex__image" alt="" />
-					</li>
+					 </li>
 				</ul>
 			</div>
 		</section>
