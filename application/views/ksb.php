@@ -91,9 +91,10 @@
 						<div class="position-relative">
 							<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/hasbi.jpg" alt="Hasbiallah">
 							<div class="team-social text-center">
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+								<!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a> -->
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/byhsbii?igsh=MTl0dzkxOXpnbnY4bA==">
+									<i class="fab fa-instagram"></i></a>
 							</div>
 						</div>
 						<div class="bg-light text-center p-3">
@@ -109,9 +110,10 @@
 						<div class="position-relative">
 							<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/bayu.jpg" alt="Bayu">
 							<div class="team-social text-center">
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+								<!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a> -->
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/bayuayassy?igsh=MXUydDB3cnR3Z29wdA==">
+									<i class="fab fa-instagram"></i></a>
 							</div>
 						</div>
 						<div class="bg-light text-center p-3">
@@ -130,9 +132,10 @@
 						<div class="position-relative">
 							<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/nadya.jpg" alt="Nadya">
 							<div class="team-social text-center">
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-twitter"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+								<!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-twitter"></i></a> -->
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/naddrunnn?igsh=amV5eTA2a3o4cWoz">
+									<i class="fab fa-instagram"></i></a>
 							</div>
 						</div>
 						<div class="bg-light text-center p-3">
@@ -148,9 +151,11 @@
 						<div class="position-relative">
 							<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/imam.jpg" alt="Imam">
 							<div class="team-social text-center">
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-twitter"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.facebook.com/share/1FwtzoxkAT/">
+									<i class="fab fa-facebook-f"></i></a>
+								<!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-twitter"></i></a> -->
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/evnxxe_?igsh=bGh0bnZ0Z3hsNTkx">
+									<i class="fab fa-instagram"></i></a>
 							</div>
 						</div>
 						<div class="bg-light text-center p-3">
@@ -166,9 +171,10 @@
 						<div class="position-relative">
 							<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/shidqi.jpg" alt="Shidqi">
 							<div class="team-social text-center">
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-twitter"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+								<!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-twitter"></i></a> -->
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/shidqii_ag?igsh=MXZ3ZmxmZzZxaGI1aA==">
+									<i class="fab fa-instagram"></i></a>
 							</div>
 						</div>
 						<div class="bg-light text-center p-3">

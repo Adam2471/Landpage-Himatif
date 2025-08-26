@@ -135,7 +135,7 @@
 				</div>
 				<!-- <a href="contact.html" class="nav-item nav-link" style="text-transform: capitalize;">Contact</a> -->
 			</div>
-			<a href="<?php echo base_url() ?>login/admin" class="btn btn-light py-4 px-lg-5 d-none d-lg-block" style="text-transform: capitalize;">Login<i class="bi bi-door-open ms-3"></i></a>
+			<!-- <a href="<?php echo base_url() ?>login/admin" class="btn btn-light py-4 px-lg-5 d-none d-lg-block" style="text-transform: capitalize;">Login<i class="bi bi-door-open ms-3"></i></a> -->
 		</div>
 	</nav>
 	<!-- Navbar End -->

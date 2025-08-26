@@ -121,9 +121,10 @@
                     <div class="position-relative">
                         <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/arbi.jpg">
                         <div class="team-social text-center">
-                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+                            <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a> -->
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/r_abiiii?igsh=MWFtcmZrNGdobGI5Ng==">
+                                <i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="bg-light text-center p-3">

@@ -89,9 +89,10 @@
 						<div class="position-relative">
 							<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/fiyah.jpg" alt="Lutfiyah">
 							<div class="team-social text-center">
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+								<!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a> -->
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/fiyahraa?igsh=eWJrOTB4NHg3aGxm">
+									<i class="fab fa-instagram"></i></a>
 							</div>
 						</div>
 						<div class="bg-light text-center p-3">
@@ -107,9 +108,10 @@
 						<div class="position-relative">
 							<img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/windi.jpg" alt="Windi">
 							<div class="team-social text-center">
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+								<!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a> -->
+								<a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/hallo.winn_?igsh=MXd1dng2ZXN6MTdkMg==">
+									<i class="fab fa-instagram"></i></a>
 							</div>
 						</div>
 						<div class="bg-light text-center p-3">

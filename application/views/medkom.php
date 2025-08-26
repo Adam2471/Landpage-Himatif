@@ -87,9 +87,10 @@
                     <div class="position-relative">
                         <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/wanda.jpg">
                         <div class="team-social text-center">
-                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a> -->
                             <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href=""><i class="fab fa-linkedin-in"></i></a> -->
-                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/wanda.ars?igsh=NzdwdnB2MmU1MzU1">
+                                <i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="bg-light text-center p-3">
@@ -107,9 +108,10 @@
                     <div class="position-relative">
                         <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/rafi.jpg">
                         <div class="team-social text-center">
-                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a> -->
                             <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href=""><i class="fab fa-linkedin-in"></i></a> -->
-                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/rafi_suswidia?igsh=eWsyMWJmdTcwMm0x">
+                                <i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="bg-light text-center p-3">
@@ -124,9 +126,10 @@
                     <div class="position-relative">
                         <img class="img-fluid" src="<?php base_url() ?>../assets/img/pengurus/irfan.jpg" alt="" />
                         <div class="team-social text-center">
-                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-facebook-f"></i></a> -->
                             <!-- <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-linkedin-in"></i></a> -->
-                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="#"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square btn-outline-primary border-2 m-1" href="https://www.instagram.com/irfangunawan_73?igsh=MTZ2NGJ1MWN5ZzA3">
+                                <i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="bg-light text-center p-3">
