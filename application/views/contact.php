@@ -50,8 +50,8 @@
   <table class="table table-bordered table-hover align-middle">
     <thead class="table-header">
       <tr class="text-center">
-        <th >No</th>
-        <th>Daftar Contact Person Lomba</th>
+        <th>No</th>
+        <th>Perlombaan</th>
         <th>Nama</th>
         <th>No WhatsApp</th>
       </tr>
@@ -59,7 +59,7 @@
     <tbody>
       <tr style="text-align: center;">
         <th scope="row" style="text-align: center;">1</th>
-        <td>Network Comfiguration</td>
+        <td>Mikrotik Competition</td>
         <td>Adam Mubarok</td>
         <td><a href="https://api.whatsapp.com/send?phone=6289506047143&text=Hi kak Adam, Saya ingin bertanya nih tentang Network Competition FAST UPB #5">089506047143</a>
             <!-- <a href="https://api.whatsapp.com/send?phone=6282359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang SEMINAR NASIONAL FAST UPB">0823-5906-8891</a></td> -->
