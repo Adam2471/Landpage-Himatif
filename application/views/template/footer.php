@@ -9,7 +9,7 @@
 				</h2>
 				<p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>
 					Jl. Inspeksi Kalimalang No.9, Cibatu, Cikarang Sel., Kabupaten Bekasi, Jawa Barat 17530</p>
-				<p class="mb-2"><i class="fa fa-phone-alt me-3"></i>089631149187</p>
+				<p class="mb-2"><i class="fa fa-phone-alt me-3"></i>089523807345</p>
 				<p class="mb-2"><i class="fa fa-envelope me-3"></i>himatif@pelitabangsa.ac.id</p>
 			</div>
 			<div class="col-lg-4 col-md-8">
@@ -34,19 +34,19 @@
 				<!--</form> -->
 				<h6 class="text-white mt-6 mb-3">Follow Us</h6>
 				<div class="d-flex pt-2">
-					<a class="btn btn-square btn-outline-light me-1" href=""><i class="fab fa-facebook-f"></i></a>
+					<!-- <a class="btn btn-square btn-outline-light me-1" href=""><i class="fab fa-facebook-f"></i></a> -->
 					<a class="btn btn-square btn-outline-light me-1"
 						href="https://www.youtube.com/channel/UC7SGrlmtAaBh2XTPpSO2Gfg">
 						<i class="fab fa-youtube"></i></a>
-					<a class="btn btn-square btn-outline-light me-0"
+					<!-- <a class="btn btn-square btn-outline-light me-0"
 						href="https://www.instagram.com/himatif_pb/?hl=id">
-						<i class="fab fa-instagram"></i></a>
+						<i class="fab fa-instagram"></i></a> -->
 				</div>
 				</br>
-				<div class="col-lg-4 col-md-2 h-800 w-200">
-					<a href="https://www.indowebsite.co.id/">
-						<img src="<?php echo base_url() ?>assets/img/images/iw.png" alt="indowebsite"></a>
-				</div>
+				 <div class="col-lg-4 col-md-2 h-800 w-200"> 
+					<!-- <a href="https://www.indowebsite.co.id/">
+						<img src="<?php echo base_url() ?>assets/img/images/iw.png" alt="indowebsite"></a> -->
+				</div> 
 			</div>
 		</div>
 	</div>

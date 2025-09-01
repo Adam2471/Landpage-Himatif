@@ -50,8 +50,8 @@
   <table class="table table-bordered table-hover align-middle">
     <thead class="table-header">
       <tr class="text-center">
-        <th >No</th>
-        <th>Daftar Contact Person Lomba</th>
+        <th>No</th>
+        <th>Perlombaan</th>
         <th>Nama</th>
         <th>No WhatsApp</th>
       </tr>
@@ -59,73 +59,94 @@
     <tbody>
       <tr style="text-align: center;">
         <th scope="row" style="text-align: center;">1</th>
+        <td>Mikrotik Competition</td>
+        <td>Adam Mubarok</td>
+        <td><a href="https://api.whatsapp.com/send?phone=6289506047143&text=Hi kak Adam, Saya ingin bertanya nih tentang Network Competition FAST UPB #5">089506047143</a>
+            <!-- <a href="https://api.whatsapp.com/send?phone=6282359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang SEMINAR NASIONAL FAST UPB">0823-5906-8891</a></td> -->
+      </tr>
+      <tr style="text-align: center;">
+        <th scope="row" style="text-align: center;">1</th>
+        <td>Ngoding Cepat Tepat</td>
+        <td>Radjikin Septiawan</td>
+        <td><a href="https://api.whatsapp.com/send?phone=6285880528744&text=Hi kak Aji, Saya ingin bertanya nih tentang Lomba Ngoding Cepat Tepat FAST UPB #5">085880528744</a>
+            <!-- <a href="https://api.whatsapp.com/send?phone=6282359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang SEMINAR NASIONAL FAST UPB">0823-5906-8891</a></td> -->
+      </tr>
+      <tr style="text-align: center;">
+        <th scope="row" style="text-align: center;">1</th>
         <td>Seminar Nasional</td>
-        <td>Mita dan Risma</td>
-        <td><a href="https://api.whatsapp.com/send?phone=6285896654071&text=Hi kak Mita, Saya ingin bertanya nih tentang SEMINAR NASIONAL FAST UPB">0858-9665-4071</a> || 
-            <a href="https://api.whatsapp.com/send?phone=6282359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang SEMINAR NASIONAL FAST UPB">0823-5906-8891</a></td>
+        <td>Rafi Suswidia</td>
+        <td><a href="https://api.whatsapp.com/send?phone=6281953312126&text=Hi kak Rafi, Saya ingin bertanya nih tentang SEMINAR NASIONAL FAST UPB #5">081953312126</a>
+            <!-- <a href="https://api.whatsapp.com/send?phone=6282359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang SEMINAR NASIONAL FAST UPB">0823-5906-8891</a></td> -->
       </tr>
       <tr style="text-align: center;">
         <th scope="row">2</th>
         <td>IoT Competition</td>
-        <td>Linda dan Risma</td>
-        <td><a href="https://api.whatsapp.com/send?phone=62895326388827&text=Hi kak Linda, Saya ingin bertanya nih tentang IOT FAST UPB">0895-3263-88827</a> || 
-            <a href="https://api.whatsapp.com/send?phone=6282359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang IOT  FAST UPB">0823-5906-8891</a></td>
+        <td>Ari Cakra</td>
+        <td><a href="https://api.whatsapp.com/send?phone=6289665733153&text=Hi kak Ari, Saya ingin bertanya nih tentang IOT FAST UPB #5">089665733153</a>
+            <!-- <a href="https://api.whatsapp.com/send?phone=6282359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang IOT  FAST UPB">0823-5906-8891</a></td> -->
       </tr>
       <tr style="text-align: center;">
         <th scope="row">3</th>
         <td>UI/UX Competition</td>
-        <td>Rino dan Risma</td>
-        <td><a href="https://api.whatsapp.com/send?phone=6282239715799&text=Hi kak Rino, Saya ingin bertanya nih tentang UI/UX Competition FAST UPB">0822-3971-5799</a> || 
-            <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang UI/UX Competition FAST UPB">0823-5906-8891</a></td>
+        <td>Zizantara</td>
+        <td><a href="https://api.whatsapp.com/send?phone=6282240000710&text=Hi kak Zizan, Saya ingin bertanya nih tentang UI/UX Competition FAST UPB #5">082240000710</a> 
+            <!-- <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang UI/UX Competition FAST UPB">0823-5906-8891</a></td> -->
       </tr>
       <tr style="text-align: center;">
+        <th scope="row">3</th>
+        <td>Photography Competition</td>
+        <td>Youvanda</td>
+        <td><a href="https://api.whatsapp.com/send?phone=6289617770937&text=Hi kak Youvanda, Saya ingin bertanya nih tentang Photography Competition FAST UPB #5">089617770937</a> 
+            <!-- <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang UI/UX Competition FAST UPB">0823-5906-8891</a></td> -->
+      </tr>
+      <!-- <tr style="text-align: center;">
         <th scope="row">4</th>
         <td>Short Movie</td>
         <td>Anggi dan Risma</td>
         <td><a href="https://api.whatsapp.com/send?phone=6285353985886&text=Hi kak Anggi, Saya ingin bertanya nih tentang Short Movie FAST UPB">0853-5398-5886</a> || 
             <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang Short Movie FAST UPB">0823-5906-8891</a></td>
-      </tr>
+      </tr> -->
       <tr style="text-align: center;">
         <th scope="row">5</th>
         <td>Mobile Legend Tournament</td>
-        <td>Zikri dan Risma</td>
-        <td><a href="https://api.whatsapp.com/send?phone=6289636802874&text=Hi kak Dzikri, Saya ingin bertanya nih tentang Mobile Legend Tournament FAST UPB">0896-3680-2874</a> || 
-            <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang  Mobile Legend Tournament FAST UPB">0823-5906-8891</a></td>
+        <td>Bagus Sanjaya</td>
+        <td><a href="https://api.whatsapp.com/send?phone=6281617587624&text=Hi kak Bagus, Saya ingin bertanya nih tentang Mobile Legend Competition FAST UPB #5">081617587624</a>
+            <!-- <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang  Mobile Legend Tournament FAST UPB">0823-5906-8891</a></td> -->
       </tr>
-      <tr style="text-align: center;">
+      <!-- <tr style="text-align: center;">
         <th scope="row">6</th>
         <td>PUBG Mobile Tournament</td>
         <td>Zikri dan Risma</td>
         <td><a href="https://api.whatsapp.com/send?phone=6289636802874&text=Hi kak Dzikri, Saya ingin bertanya nih tentang Mobile Legend Tournament FAST UPB">0896-3680-2874</a> || 
             <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang  Mobile Legend Tournament FAST UPB">0823-5906-8891</a></td>
-      </tr>
+      </tr> -->
       <tr style="text-align: center;">
         <th scope="row">7</th>
         <td>Badminton</td>
-        <td>Romdhon dan Risma</td>
-        <td><a href="https://api.whatsapp.com/send?phone=6285779545469&text=Hi kak Romdhon, Saya ingin bertanya nih tentang Badminton Tournament FAST UPB">0857-7954-5469</a> || 
-            <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang  Badminton Tournament FAST UPB">0823-5906-8891</a></td>
+        <td>Dwi Okta</td>
+        <td><a href="https://api.whatsapp.com/send?phone=6285819282822&text=Hi kak Okta, Saya ingin bertanya nih tentang Badminton Competition FAST UPB #5">085819282822</a>
+            <!-- <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang  Badminton Tournament FAST UPB">0823-5906-8891</a></td> -->
       </tr>
 
       <tr style="text-align: center;">
         <th scope="row">8</th>
         <td>Futsal</td>
-        <td>Romdhon dan Risma</td>
-        <td><a href="https://api.whatsapp.com/send?phone=6285779545469&text=Hi kak Romdhon, Saya ingin bertanya nih tentang Badminton Tournament FAST UPB">0857-7954-5469</a> || 
-            <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang  Badminton Tournament FAST UPB">0823-5906-8891</a></td>
+        <td>Gilang Febriansyah</td>
+        <td><a href="https://api.whatsapp.com/send?phone=6289626842218&text=Hi kak Gilang, Saya ingin bertanya nih tentang Futsal Competition FAST UPB #5">089626842218</a>
+            <!-- <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang  Badminton Tournament FAST UPB">0823-5906-8891</a></td> -->
       </tr>
-      <tr style="text-align: center;">
+      <!-- <tr style="text-align: center;">
         <th scope="row">9</th>
         <td>Poster</td>
         <td>Dinda dan Risma</td>
         <td><a href="https://api.whatsapp.com/send?phone=6289512735024&text=Hi kak Dinda, Saya ingin bertanya nih tentang Poster Competition FAST UPB">0895-1273-5024</a> || 
             <a href="https://api.whatsapp.com/send?phone=628359068891&text=Hi kak Risma, Saya ingin bertanya nih tentang  Poster Competition FAST UPB">0823-5906-8891</a></td>
-      </tr>
+      </tr> -->
       <tr style="text-align: center;">
         <th scope="row">10</th>
         <td>Sponsorship</td>
-        <td>Ramdhan</td>
-        <td><a href="https://api.whatsapp.com/send?phone=6287775365921&text=Hi kak Ramdhan, Saya ingin bertanya nih tentang Sponsorship dan Media Partner FAST UPB">0877-7536-5921</a>
+        <td>Husni Kurniawan</td>
+        <td><a href="https://api.whatsapp.com/send?phone=62895333958552&text=Hi kak Husni, Saya ingin bertanya nih tentang Sponsorship dan Media Partner FAST UPB #5">0895333958552</a>
       </tr>
     </tbody>
   </table>

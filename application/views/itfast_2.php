@@ -40,11 +40,11 @@
 						<a href="#rangkaiankegiatan" class="as-nav__link">Lomba</a>
 					</li>
 					<li class="as-nav__item">
-						<a href="#sponsor" class="as-nav__link">Sponsorship</a>
+						<a href="#sponsor" class="as-nav__link">Sponsorship & Media Partner</a>
 					</li>
-					<li class="as-nav__item">
+					<!-- <li class="as-nav__item">
 						<a href="#partner" class="as-nav__link">Media Partner</a>
-					</li>
+					</li> -->
 					<li class="as-nav__item">
 						<a href="<?php echo base_url() . 'himatif/contact' ?>" class="as-nav__link"> Contact</a>
 					</li>
@@ -66,8 +66,7 @@
 					<p class="" style="text-align: justify;">
 						Hallo semuanya, FAST UPB 2025 (Festival Ajang Sinergisitas Teknologi Universitas Pelita Bangsa)
 						yang merupakan acara tahunan HIMATIF - Univ. Pelita Bangsa. FAST UPB 2025 mengusung
-						tema "#", adapun kegiatan yang ada didalam FAST UPB tahun ini diantaranya adalah Lomba Konfigurasi Jaringan Dengan Mikrotik,
-						UI UX Desain, Ngoding Cepat Tepat, IoT, photography, Kegiatan ini dilaksanakan pada 14 September 2025
+						tema "Connect Create", banyak kegiatan menarik nya lhoo.. untuk lebih detailnya silahkan download guide book yang tertera.
 					</p>
 					<br>
 					<i class="bi bi-file-pdf-fill">
@@ -94,21 +93,182 @@
 		<br> -->
 		<section id="rangkaiankegiatan" class="as-section">
 			<div class="as-container">
-				<h2 class="as-section__title">Rangkaian Kegiatan</h2>
+				<h2 class="as-section__title">Rangkaian Kegiatan IT FAST #5</h2>
 				<p class="as-section__description">
 				<div class="as-grid">
+
+					<!-- it fast start -->
+					<!-- lomba 1 -->
+					<article class="as-grid__card">
+						<div class="as-grid__card-wrapper">
+							<h3 class="as-grid__title" style="text-align:center">Mikrotik Competition</h3>
+							<img src="<?php echo base_url() ?>assets/img/proker/mikrotik25.jpg"
+								class="as-grid__image" loading="lazy" alt="Pamflet lomba mikrotik" />
+							<p class="as-grid__description" style="text-align:center">
+								<b>"Smart and secure"</b>
+							</p>
+
+							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
+
+							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
+							<i class="bi bi-file-pdf-fill">
+								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
+								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
+							</i>
+							<br>
+							<br>
+							<p class="as-grid__description">Contact Person:</p>
+							<td class="as-grid__description">
+								<a class="bi bi-telephone-fill as-grid__description"
+									href="https://api.whatsapp.com/send?phone=089506047143&text=Hi Kak Adam, 
+								Saya ingin bertanya nih tentang lomba Mikrotik FAST UPB #5">
+									089506047143(Adam Mubarok)</a>
+								</br>
+						</div>
+					</article>
+					<!-- lomba 2 -->
+					<article class="as-grid__card">
+						<div class="as-grid__card-wrapper">
+							<h3 class="as-grid__title" style="text-align:center">Ngoding Cepat Tepat</h3>
+							<img src="<?php echo base_url() ?>assets/img/proker/nct25.jpg"
+								class="as-grid__image" loading="lazy" alt="Pamflet ngoding cepat tepat" />
+							<p class="as-grid__description" style="text-align:center">
+								<b>"Smart and secure"</b>
+							</p>
+
+							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
+
+							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
+							<i class="bi bi-file-pdf-fill">
+								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
+								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
+							</i>
+							<br>
+							<br>
+							<p class="as-grid__description">Contact Person:</p>
+							<td class="as-grid__description">
+								<a class="bi bi-telephone-fill as-grid__description"
+									href="https://api.whatsapp.com/send?phone=085880528744&text=Hi Kak Aji, 
+								Saya ingin bertanya nih tentang lomba Ngoding cepat tepat FAST UPB #5">
+									085880528744(Radjikin Septiawan)</a>
+								</br>
+						</div>
+					</article>
+					<!-- lomba 3 -->
+					<article class="as-grid__card">
+						<div class="as-grid__card-wrapper">
+							<h3 class="as-grid__title" style="text-align:center">UI UX Design</h3>
+							<img src="<?php echo base_url() ?>assets/img/proker/uiux25.jpg"
+								class="as-grid__image" loading="lazy" alt="Pamflet UI UX" />
+							<p class="as-grid__description" style="text-align:center">
+								<b>"Smart and secure"</b>
+							</p>
+
+							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
+
+							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
+							<i class="bi bi-file-pdf-fill">
+								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
+								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
+							</i>
+							<br>
+							<br>
+							<p class="as-grid__description">Contact Person:</p>
+							<td class="as-grid__description">
+								<a class="bi bi-telephone-fill as-grid__description"
+									href="https://api.whatsapp.com/send?phone=082240000710&text=Hi Kak Zizan, 
+								Saya ingin bertanya nih tentang lomba UI UX FAST UPB #5">
+									082240000710(Zizantara)</a>
+								</br>
+						</div>
+					</article>
+					<!-- lomba 4 -->
+					<article class="as-grid__card">
+						<div class="as-grid__card-wrapper">
+							<h3 class="as-grid__title" style="text-align:center">IoT Competition</h3>
+							<img src="<?php echo base_url() ?>assets/img/proker/iot25.jpg"
+								class="as-grid__image" loading="lazy" alt="Pamflet lomba IoT" />
+							<p class="as-grid__description" style="text-align:center">
+								<b>"Smart and secure"</b>
+							</p>
+
+							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
+
+							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
+							<i class="bi bi-file-pdf-fill">
+								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
+								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
+							</i>
+							<br>
+							<br>
+							<p class="as-grid__description">Contact Person:</p>
+							<td class="as-grid__description">
+								<a class="bi bi-telephone-fill as-grid__description"
+									href="https://api.whatsapp.com/send?phone=089665733153&text=Hi Kak Ari, 
+								Saya ingin bertanya nih tentang lomba IoT FAST UPB #5">
+									089665733153(Ari Cakra)</a>
+								</br>
+						</div>
+					</article>
+					<!-- lomba 5 -->
+					<article class="as-grid__card">
+						<div class="as-grid__card-wrapper">
+							<h3 class="as-grid__title" style="text-align:center">Photography Competition</h3>
+							<img src="<?php echo base_url() ?>assets/img/proker/fg25.jpg"
+								class="as-grid__image" loading="lazy" alt="Pamflet lomba photography" />
+							<p class="as-grid__description" style="text-align:center">
+								<b>"Smart and secure"</b>
+							</p>
+
+							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
+
+							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
+							<i class="bi bi-file-pdf-fill">
+								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
+								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
+							</i>
+							<br>
+							<br>
+							<p class="as-grid__description">Contact Person:</p>
+							<td class="as-grid__description">
+								<a class="bi bi-telephone-fill as-grid__description"
+									href="https://api.whatsapp.com/send?phone=089617770937&text=Hi Kak Youvanda, 
+								Saya ingin bertanya nih tentang lomba Photography FAST UPB #5">
+									089617770937(Youvanda)</a>
+								</br>
+						</div>
+					</article>
+				</div>
+				</article>
+			</div>
+			</div>
+		</section>
+		<!-- it fast end -->
+
+		<!-- himscope start -->
+		<section id="rangkaiankegiatan" class="as-section">
+			<div class="as-container">
+				<h2 class="as-section__title">Rangkaian Kegiatan HIMSCOPE #5</h2>
+				<p class="as-section__description">
+				<div class="as-grid">
+
 					<!-- lomba 1 -->
 					<article class="as-grid__card">
 						<div class="as-grid__card-wrapper">
 							<h3 class="as-grid__title" style="text-align:center">Badminton Competition</h3>
-							<img src="<?php echo base_url() ?>assets/img/logo/badmin.jpg"
+							<img src="<?php echo base_url() ?>assets/img/proker/badmin25.jpg"
 								class="as-grid__image" loading="lazy" alt="Pamflet badminton competition" />
 							<p class="as-grid__description" style="text-align:center">
 								<b>"Smash the Limits: A Sport of Teamwork and Glory"</b>
 							</p>
-						
+
 							<i class="bi bi-calendar-week-fill"></i> 18-21 September 2025</i>
-						
+
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
 								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
@@ -125,8 +285,64 @@
 								</br>
 						</div>
 					</article>
-					
-					<!-- lomba selanjutnya isi disini -->
+					<!-- lomba 2 -->
+					<article class="as-grid__card">
+						<div class="as-grid__card-wrapper">
+							<h3 class="as-grid__title" style="text-align:center">Futsal Competition</h3>
+							<img src="<?php echo base_url() ?>assets/img/proker/futsal25.jpg"
+								class="as-grid__image" loading="lazy" alt="Pamflet Futsal competition" />
+							<p class="as-grid__description" style="text-align:center">
+								<b>"Smash the Limits: A Sport of Teamwork and Glory"</b>
+							</p>
+
+							<i class="bi bi-calendar-week-fill"></i> 18-21 September 2025</i>
+
+							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
+							<i class="bi bi-file-pdf-fill">
+								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
+							</i>
+							<br>
+							<br>
+							<p class="as-grid__description">Contact Person:</p>
+							<td class="as-grid__description">
+								<a class="bi bi-telephone-fill as-grid__description"
+									href="https://api.whatsapp.com/send?phone=089626842218&text=Hi Kak Gilang, 
+								Saya ingin bertanya nih tentang Futsal Competition FAST UPB #5">
+									089626842218(Gilang)</a>
+								</br>
+						</div>
+					</article>
+
+					<!-- lomba 3 -->
+					<article class="as-grid__card">
+						<div class="as-grid__card-wrapper">
+							<h3 class="as-grid__title" style="text-align:center">ML Competition</h3>
+							<img src="<?php echo base_url() ?>assets/img/proker/ml25.jpg"
+								class="as-grid__image" loading="lazy" alt="Pamflet Futsal competition" />
+							<p class="as-grid__description" style="text-align:center">
+								<b>"Smash the Limits: A Sport of Teamwork and Glory"</b>
+							</p>
+
+							<i class="bi bi-calendar-week-fill"></i> 18-21 September 2025</i>
+
+							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
+							<i class="bi bi-file-pdf-fill">
+								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
+							</i>
+							<br>
+							<br>
+							<p class="as-grid__description">Contact Person:</p>
+							<td class="as-grid__description">
+								<a class="bi bi-telephone-fill as-grid__description"
+									href="https://api.whatsapp.com/send?phone=081617587624&text=Hi Kak Bagus, 
+								Saya ingin bertanya nih tentang ML Competition FAST UPB #5">
+									081617587624(Bagus)</a>
+								</br>
+						</div>
+					</article>
+					<!-- himscope end -->
 
 					<!-- original layout -->
 					<!-- <article class="as-grid__card">
@@ -205,13 +421,14 @@
 				</div>
 			</div>
 		</section>
+
 		<!-- start Sponsorship-->
 		<section id="sponsor" class="as-section as-section-soft">
 			<div class="as-container">
 				<h2 class="as-section__title">Spoonshorship</h2>
 				<p class="as-section__description">
 				<ul class="as-flex">
-					<li class="as-flex__item">
+					<!-- <li class="as-flex__item">
 						<img src="<?php echo base_url() ?>assets/img/logo/md1.png"
 							class="as-flex__image" alt="md1" />
 					</li>
@@ -222,7 +439,7 @@
 					<li class="as-flex__item">
 						<img src="<?php echo base_url() ?>assets/img/logo/ttk1.png"
 							class="as-flex__image" alt="ttk" />
-					</li>
+					</li> -->
 					<li class="as-flex__item">
 						<img src="<?php echo base_url() ?>assets/img/logo/zero1.png"
 							class="as-flex__image" alt="zero" />
@@ -230,7 +447,7 @@
 					<li class="as-flex__item">
 						<img src="<?php echo base_url() ?>assets/img/logo/hero1.png"
 							class="as-flex__image" alt="hero" />
-					 </li>
+					</li>
 				</ul>
 			</div>
 		</section>
@@ -274,8 +491,6 @@
 						alt="pojokkampus" />
 				</li>
 			</ul>
-
-
 		</div>
 	</section>
 	</main>
@@ -290,7 +505,7 @@
 		<div class="as-container">
 			<div class="as-footer__container">
 				<div class="as-footer__content">
-					<a href="https://www.instagram.com/fastupb/" class="as-footer__social" aria-label="socmed"><i class="bx bxl-instagram"></i></a>
+					<a href="https://www.instagram.com/himscope.fastupb?igsh=MWpmOXY5NXJnc2tl" class="as-footer__social" aria-label="socmed"><i class="bx bxl-instagram"></i></a>
 					<a href="https://www.youtube.com/channel/UC7SGrlmtAaBh2XTPpSO2Gfg" class="as-footer__social" aria-label="socmed"><i class="bx bxl-youtube"></i></a>
 				</div>
 
@@ -307,7 +522,7 @@
 				</div>
 			</div>
 			<!-- <p class="as-footer__copy">&#169; Himatif <?php echo date('Y'); ?> Dept Litbang</p> -->
-			<p class="as-footer__copy">© Himatif <span id="year"></span> Dept Litbang</p>
+			<p class="as-footer__copy">© Himatif <span id="year"></span>Dept Litbang</p>
 
 			<script>
 				document.getElementById("year").textContent = new Date().getFullYear();
