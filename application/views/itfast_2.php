@@ -105,14 +105,15 @@
 							<img src="<?php echo base_url() ?>assets/img/proker/mikrotik25.jpg"
 								class="as-grid__image" loading="lazy" alt="Pamflet lomba mikrotik" />
 							<p class="as-grid__description" style="text-align:center">
-								<b>"Smart and secure"</b>
+								<b>"Smart and secure Network Configuration With Mikrotik"</b>
 							</p>
 
 							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1oIS2buYnnVcEFJzr4O6-Cw2q29GEl3CW/view?usp=sharing" 
+								style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
 								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
@@ -134,14 +135,15 @@
 							<img src="<?php echo base_url() ?>assets/img/proker/nct25.jpg"
 								class="as-grid__image" loading="lazy" alt="Pamflet ngoding cepat tepat" />
 							<p class="as-grid__description" style="text-align:center">
-								<b>"Smart and secure"</b>
+								<b>"Flexibillity Code for Smart Solutions"</b>
 							</p>
 
 							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1bPu2aiJXKeKAPY2uInvvHNeGzfswl9Vr/view?usp=drivesdk" 
+								style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
 								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
@@ -163,7 +165,7 @@
 							<img src="<?php echo base_url() ?>assets/img/proker/uiux25.jpg"
 								class="as-grid__image" loading="lazy" alt="Pamflet UI UX" />
 							<p class="as-grid__description" style="text-align:center">
-								<b>"Smart and secure"</b>
+								<b>"Digital Transformation: Integrating Humans, Technology And Data"</b>
 							</p>
 
 							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
@@ -192,7 +194,7 @@
 							<img src="<?php echo base_url() ?>assets/img/proker/iot25.jpg"
 								class="as-grid__image" loading="lazy" alt="Pamflet lomba IoT" />
 							<p class="as-grid__description" style="text-align:center">
-								<b>"Smart and secure"</b>
+								<b>"Smart Living With IoT: Inovasi Otomatisasi Untuk Kehidupan Sehari hari"</b>
 							</p>
 
 							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
@@ -221,7 +223,7 @@
 							<img src="<?php echo base_url() ?>assets/img/proker/fg25.jpg"
 								class="as-grid__image" loading="lazy" alt="Pamflet lomba photography" />
 							<p class="as-grid__description" style="text-align:center">
-								<b>"Smart and secure"</b>
+								<b>"Waktu Yang Membisu, Lensa Yang Bersuara"</b>
 							</p>
 
 							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
@@ -271,7 +273,8 @@
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1oPdmDsxWDy0bjnEsk_IMEfhc5t3lSXB0/view?usp=drivesdk" 
+								style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
 							<br>
@@ -292,7 +295,7 @@
 							<img src="<?php echo base_url() ?>assets/img/proker/futsal25.jpg"
 								class="as-grid__image" loading="lazy" alt="Pamflet Futsal competition" />
 							<p class="as-grid__description" style="text-align:center">
-								<b>"Smash the Limits: A Sport of Teamwork and Glory"</b>
+								<b>"Unite In The Game, Achive In The Match"</b>
 							</p>
 
 							<i class="bi bi-calendar-week-fill"></i> 18-21 September 2025</i>
@@ -321,7 +324,7 @@
 							<img src="<?php echo base_url() ?>assets/img/proker/ml25.jpg"
 								class="as-grid__image" loading="lazy" alt="Pamflet Futsal competition" />
 							<p class="as-grid__description" style="text-align:center">
-								<b>"Smash the Limits: A Sport of Teamwork and Glory"</b>
+								<b>"Battle Of Titans"</b>
 							</p>
 
 							<i class="bi bi-calendar-week-fill"></i> 18-21 September 2025</i>
