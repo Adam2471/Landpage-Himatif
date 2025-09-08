@@ -6,12 +6,12 @@
 	<meta name="description" content="SPA Example" />
 	<meta name="keywords" content="HTML, CSS, JavaScript" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<!-- <link rel="icon" href="<?php echo base_url() ?>assets/img/logo/itfastlogo.png" type="image/gif" sizes="16x16" /> -->
+	<!-- ini di komen <link rel="icon" href="<?php echo base_url() ?>assets/img/logo/itfastlogo.png" type="image/gif" sizes="16x16" />  -->
 	<link rel="icon" href="<?php echo base_url() ?>assets/img/logo/iconfast5.png" type="image/gif" sizes="16x16" alt="logo fast #5" />
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
 	<link href="https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css" rel="stylesheet" />
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/app.css" />
-	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/style2.css" />
+	<!-- <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/style2.css" /> -->
 	<title>FAST #5</title>
 </head>
 
@@ -530,6 +530,18 @@
 			<script>
 				document.getElementById("year").textContent = new Date().getFullYear();
 			</script>
+
+			<script>
+  const navMenu = document.getElementById("nav-menu");
+  const navToggle = document.getElementById("nav-toggle");
+
+  if (navToggle && navMenu) {
+    navToggle.addEventListener("click", () => {
+      navMenu.classList.toggle("show-menu");
+    });
+  }
+</script>
+
 
 		</div>
 	</footer>
