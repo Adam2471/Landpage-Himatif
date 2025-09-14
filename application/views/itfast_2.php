@@ -277,7 +277,7 @@
 								<b>"Smash the Limits: A Sport of Teamwork and Glory"</b>
 							</p>
 
-							<i class="bi bi-calendar-week-fill"></i> 18-21 September 2025</i>
+							<i class="bi bi-calendar-week-fill"></i> 25-28 September 2025</i>
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
@@ -306,7 +306,7 @@
 								<b>"Unite In The Game, Achive In The Match"</b>
 							</p>
 
-							<i class="bi bi-calendar-week-fill"></i> 18-21 September 2025</i>
+							<i class="bi bi-calendar-week-fill"></i> 04-05 Oktober 2025</i>
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
@@ -335,7 +335,7 @@
 								<b>"Battle Of Titans"</b>
 							</p>
 
-							<i class="bi bi-calendar-week-fill"></i> 18-21 September 2025</i>
+							<i class="bi bi-calendar-week-fill"></i> 11-12 Oktober 2025</i>
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
