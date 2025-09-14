@@ -7,7 +7,7 @@
 	<meta name="keywords" content="HTML, CSS, JavaScript" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<!-- ini di komen <link rel="icon" href="<?php echo base_url() ?>assets/img/logo/itfastlogo.png" type="image/gif" sizes="16x16" />  -->
-	<link rel="icon" href="<?php echo base_url() ?>assets/img/logo/iconfast5.png" type="image/gif" sizes="16x16" alt="logo fast #5" />
+	<link rel="icon" href="<?php echo base_url() ?>assets/img/logo/iconfast5.png" type="image/gif" sizes="16x16" />
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
 	<link href="https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css" rel="stylesheet" />
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/app.css" />
@@ -66,13 +66,14 @@
 					<p class="" style="text-align: justify;">
 						Hallo semuanya, FAST UPB 2025 (Festival Ajang Sinergisitas Teknologi Universitas Pelita Bangsa)
 						yang merupakan acara tahunan HIMATIF - Univ. Pelita Bangsa. FAST UPB 2025 mengusung
-						tema "Connect Create", banyak kegiatan menarik nya lhoo.. untuk lebih detailnya silahkan download guide book yang tertera.
+						tema "Connect and Create Innovation for a Smarter World", banyak kegiatan menarik nya lhoo.. 
+						untuk lebih detailnya silahkan download guide book yang tertera.
 					</p>
 					<br>
 					<i class="bi bi-file-pdf-fill">
 						<!-- <a href="https://drive.google.com/file/d/16tsRv6rj-BcVsWckjWut6GeIfL7AHmz4/view?usp=sharing" 
 						style="border-radius: 5px; background-color: whitesmoke; font-size: large;">Download Guide Book</a> ori -->
-						<a href="#"
+						<a href="https://drive.google.com/file/d/1dQkzQDoh8Sj6o_8hAV-8WIFpJPG4FYXU/view?usp=sharing"
 							style="border-radius: 5px; background-color: whitesmoke; font-size: large;">Download Guide Book</a>
 					</i>
 
@@ -91,7 +92,7 @@
 		<br>
 		<br>
 		<br> -->
-		<section id="rangkaiankegiatan" class="as-section">
+		<section id="itfast" class="as-section">
 			<div class="as-container">
 				<h2 class="as-section__title">Rangkaian Kegiatan IT FAST #5</h2>
 				<p class="as-section__description">
@@ -108,12 +109,12 @@
 								<b>"Smart and secure Network Configuration With Mikrotik"</b>
 							</p>
 
-							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
+							<i class="bi bi-calendar-week-fill"></i> 21 September 2025
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/1oIS2buYnnVcEFJzr4O6-Cw2q29GEl3CW/view?usp=sharing" 
-								style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1oIS2buYnnVcEFJzr4O6-Cw2q29GEl3CW/view?usp=sharing"
+									style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
 								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
@@ -122,9 +123,10 @@
 							<p class="as-grid__description">Contact Person:</p>
 							<td class="as-grid__description">
 								<a class="bi bi-telephone-fill as-grid__description"
-									href="https://api.whatsapp.com/send?phone=089506047143&text=Hi Kak Adam, 
-								Saya ingin bertanya nih tentang lomba Mikrotik FAST UPB #5">
-									089506047143(Adam Mubarok)</a>
+									href="https://api.whatsapp.com/send?phone=6289506047143&text=Hi%20Kak%20Adam%2C%20Saya%20ingin%20bertanya%20nih%20tentang%20lomba%20Konfigurasi%20Mikrotik%20FAST%20UPB%20%235"
+									target="_blank">
+									0895-0604-7143 (Adam Mubarok)
+								</a>
 								</br>
 						</div>
 					</article>
@@ -138,12 +140,12 @@
 								<b>"Flexibillity Code for Smart Solutions"</b>
 							</p>
 
-							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
+							<i class="bi bi-calendar-week-fill"></i> 21 September 2025</i>
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/1bPu2aiJXKeKAPY2uInvvHNeGzfswl9Vr/view?usp=drivesdk" 
-								style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1bPu2aiJXKeKAPY2uInvvHNeGzfswl9Vr/view?usp=drivesdk"
+									style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
 								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
@@ -151,10 +153,16 @@
 							<br>
 							<p class="as-grid__description">Contact Person:</p>
 							<td class="as-grid__description">
-								<a class="bi bi-telephone-fill as-grid__description"
-									href="https://api.whatsapp.com/send?phone=085880528744&text=Hi Kak Aji, 
+								<!-- <a class="bi bi-telephone-fill as-grid__description"
+									href="https://api.whatsapp.com/send?phone=+6285880528744&text=Hi%Kak%Aji, 
 								Saya ingin bertanya nih tentang lomba Ngoding cepat tepat FAST UPB #5">
-									085880528744(Radjikin Septiawan)</a>
+									085880528744(Radjikin Septiawan)</a> -->
+								<a class="bi bi-telephone-fill as-grid__description"
+									href="https://api.whatsapp.com/send?phone=6285880528744&text=Hi%20Kak%20Aji%2C%20Saya%20ingin%20bertanya%20nih%20tentang%20lomba%20Ngoding%20cepat%20tepat%20FAST%20UPB%20%235"
+									target="_blank">
+									085880528744 (Radjikin Septiawan)
+								</a>
+
 								</br>
 						</div>
 					</article>
@@ -168,11 +176,11 @@
 								<b>"Digital Transformation: Integrating Humans, Technology And Data"</b>
 							</p>
 
-							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
+							<i class="bi bi-calendar-week-fill"></i> 21 September 2025</i>
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1dQkzQDoh8Sj6o_8hAV-8WIFpJPG4FYXU/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
 								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
@@ -181,8 +189,8 @@
 							<p class="as-grid__description">Contact Person:</p>
 							<td class="as-grid__description">
 								<a class="bi bi-telephone-fill as-grid__description"
-									href="https://api.whatsapp.com/send?phone=082240000710&text=Hi Kak Zizan, 
-								Saya ingin bertanya nih tentang lomba UI UX FAST UPB #5">
+									href="https://api.whatsapp.com/send?phone=6282240000710&text=Hi%20Kak%20Zizan%2C%20Saya%20ingin%20bertanya%20nih%20tentang%20lomba%20UI%20UX%20FAST%20UPB%20%235"
+									target="_blank">
 									082240000710(Zizantara)</a>
 								</br>
 						</div>
@@ -197,11 +205,11 @@
 								<b>"Smart Living With IoT: Inovasi Otomatisasi Untuk Kehidupan Sehari hari"</b>
 							</p>
 
-							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
+							<i class="bi bi-calendar-week-fill"></i> 21 September 2025</i>
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1dQkzQDoh8Sj6o_8hAV-8WIFpJPG4FYXU/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
 								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
@@ -210,8 +218,8 @@
 							<p class="as-grid__description">Contact Person:</p>
 							<td class="as-grid__description">
 								<a class="bi bi-telephone-fill as-grid__description"
-									href="https://api.whatsapp.com/send?phone=089665733153&text=Hi Kak Ari, 
-								Saya ingin bertanya nih tentang lomba IoT FAST UPB #5">
+									href="https://api.whatsapp.com/send?phone=6289665733153&text=Hi%20Kak%20Ari%2C%20Saya%20ingin%20bertanya%20nih%20tentang%20lomba%20IoT%20FAST%20UPB%20%235"
+									target="_blank">
 									089665733153(Ari Cakra)</a>
 								</br>
 						</div>
@@ -226,11 +234,11 @@
 								<b>"Waktu Yang Membisu, Lensa Yang Bersuara"</b>
 							</p>
 
-							<i class="bi bi-calendar-week-fill"></i>21 September 2025</i>
+							<i class="bi bi-calendar-week-fill"></i> 21 September 2025</i>
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1dQkzQDoh8Sj6o_8hAV-8WIFpJPG4FYXU/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" 
 								 style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
@@ -239,8 +247,8 @@
 							<p class="as-grid__description">Contact Person:</p>
 							<td class="as-grid__description">
 								<a class="bi bi-telephone-fill as-grid__description"
-									href="https://api.whatsapp.com/send?phone=089617770937&text=Hi Kak Youvanda, 
-								Saya ingin bertanya nih tentang lomba Photography FAST UPB #5">
+									href="https://api.whatsapp.com/send?phone=6289617770937&text=Hi%20Kak%20Youvanda%2C%20Saya%20ingin%20bertanya%20nih%20tentang%20lomba%20Photography%20FAST%20UPB%20%235"
+									target="_blank">
 									089617770937(Youvanda)</a>
 								</br>
 						</div>
@@ -253,7 +261,7 @@
 		<!-- it fast end -->
 
 		<!-- himscope start -->
-		<section id="rangkaiankegiatan" class="as-section">
+		<section id="himscope" class="as-section">
 			<div class="as-container">
 				<h2 class="as-section__title">Rangkaian Kegiatan HIMSCOPE #5</h2>
 				<p class="as-section__description">
@@ -273,8 +281,8 @@
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="https://drive.google.com/file/d/1oPdmDsxWDy0bjnEsk_IMEfhc5t3lSXB0/view?usp=drivesdk" 
-								style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1oPdmDsxWDy0bjnEsk_IMEfhc5t3lSXB0/view?usp=drivesdk"
+									style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
 							<br>
@@ -282,8 +290,8 @@
 							<p class="as-grid__description">Contact Person:</p>
 							<td class="as-grid__description">
 								<a class="bi bi-telephone-fill as-grid__description"
-									href="https://api.whatsapp.com/send?phone=6285819282822&text=Hi Kak Okta, 
-								Saya ingin bertanya nih tentang Badminton Competition FAST UPB #5">
+									href="https://api.whatsapp.com/send?phone=6285819282822&text=Hi%20Kak%20Okta%2C%20Saya%20ingin%20bertanya%20nih%20tentang%20lomba%20Badminton%20FAST%20UPB%20%235"
+									target="_blank">
 									085819282822(Dwi Okta)</a>
 								</br>
 						</div>
@@ -302,7 +310,7 @@
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1dQkzQDoh8Sj6o_8hAV-8WIFpJPG4FYXU/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
 							<br>
@@ -310,9 +318,9 @@
 							<p class="as-grid__description">Contact Person:</p>
 							<td class="as-grid__description">
 								<a class="bi bi-telephone-fill as-grid__description"
-									href="https://api.whatsapp.com/send?phone=089626842218&text=Hi Kak Gilang, 
-								Saya ingin bertanya nih tentang Futsal Competition FAST UPB #5">
-									089626842218(Gilang)</a>
+									href="https://api.whatsapp.com/send?phone=6289626842218&text=Hi%20Kak%20Gilang%2C%20Saya%20ingin%20bertanya%20nih%20tentang%20lomba%20Futsal%20FAST%20UPB%20%235"
+									target="_blank">
+									089626842218 (Gilang)</a>
 								</br>
 						</div>
 					</article>
@@ -331,7 +339,7 @@
 
 							<p class="as-grid__description">Untuk melihat Syarat ketentuan berlaku silahkan dowload <b>GuideBook :</b></p>
 							<i class="bi bi-file-pdf-fill">
-								<a href="#" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
+								<a href="https://drive.google.com/file/d/1dQkzQDoh8Sj6o_8hAV-8WIFpJPG4FYXU/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a>
 								<!-- <a href="https://drive.google.com/file/d/1PCXLn6APDhyNqyXLR2MbmI0BSaLVtc-M/view?usp=sharing" style="border-radius: 5px; background-color: whitesmoke; font-size: small;">Download</a> -->
 							</i>
 							<br>
@@ -339,8 +347,8 @@
 							<p class="as-grid__description">Contact Person:</p>
 							<td class="as-grid__description">
 								<a class="bi bi-telephone-fill as-grid__description"
-									href="https://api.whatsapp.com/send?phone=081617587624&text=Hi Kak Bagus, 
-								Saya ingin bertanya nih tentang ML Competition FAST UPB #5">
+									href="https://api.whatsapp.com/send?phone=6281617587624&text=Hi%20Kak%20Bagus%2C%20Saya%20ingin%20bertanya%20nih%20tentang%20lomba%20Mobile%20Legend%20FAST%20UPB%20%235"
+									target="_blank">
 									081617587624(Bagus)</a>
 								</br>
 						</div>
@@ -438,11 +446,11 @@
 					<li class="as-flex__item">
 						<img src="<?php echo base_url() ?>assets/img/logo/dicoding1.png"
 							class="as-flex__image" alt="dicoding" />
-					</li>
-					<li class="as-flex__item">
-						<img src="<?php echo base_url() ?>assets/img/logo/ttk1.png"
-							class="as-flex__image" alt="ttk" />
 					</li> -->
+					<li class="as-flex__item">
+						<img src="<?php echo base_url() ?>assets/img/logo/logo_sariroti.png"
+							class="as-flex__image" alt="sariroti" />
+					</li>
 					<li class="as-flex__item">
 						<img src="<?php echo base_url() ?>assets/img/logo/zero1.png"
 							class="as-flex__image" alt="zero" />
@@ -532,15 +540,15 @@
 			</script>
 
 			<script>
-  const navMenu = document.getElementById("nav-menu");
-  const navToggle = document.getElementById("nav-toggle");
+				const navMenu = document.getElementById("nav-menu");
+				const navToggle = document.getElementById("nav-toggle");
 
-  if (navToggle && navMenu) {
-    navToggle.addEventListener("click", () => {
-      navMenu.classList.toggle("show-menu");
-    });
-  }
-</script>
+				if (navToggle && navMenu) {
+					navToggle.addEventListener("click", () => {
+						navMenu.classList.toggle("show-menu");
+					});
+				}
+			</script>
 
 
 		</div>
